@@ -1,6 +1,6 @@
 #!/bin/bash 
 
 git add . 
-read QUERY_STRING
-git commit -m "{`$QUERY_STRING`}" 
+read COMMIT
+git commit -m "{`$COMMIT`}" 
 git push
