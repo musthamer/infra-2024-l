@@ -1,0 +1,58 @@
+WATCHER SKRIPT:
+
+- cat, ncat, while ,if,exit-Code,Kommando-Substitution
+
+- Wofür ist der Watcher Skript da?
+Ein Watcher-Skript ist ein Skript, das bestimmte Systemaktivitäten überwacht und darauf reagiert. Zum Beispiel kann es prüfen, ob ein Dienst läuft, und wenn nicht, eine Aktion wird ausgelöst.
+
+Eine Beispiel-Lösung für einen Watcher-Skript liegt unter /home/oradfelder/seminars/infra-2024/tag1.
+
+---BEISPIEL FÜR AUFGABENSTELLUNG:----
+Auf rhodes läuft auf dem Port 8082 ein
+  2 TCP-Server.
+  3 Wenn Ihr Euch mit dem Port verbindet,
+  4 bekommt Ihr im Folgenden alle AIS-Nachrichten,
+  5 die dort empfangen werden als Text-Strom.
+  6
+  7 Schreibt einen Watcher, der dafür sorgt,
+  8 dass die Daten entgegengenommen werden und
+  9 in der Datei rhodes.txt zeilenweise
+ 10 angehängt werden.
+ 11 Wenn eine Minute lang keine Daten kamen,
+ 12 dann stoppt die Verbindung und startet sie
+ 13 neu.
+
+--------------------
+Das Watcher-Skript
+--------------------
+
+1) Erstmal Dateien empfangen
+2) Watcher-Skript schreiben, sodass wenn eine Minute keine Daten kommen…
+
+1-SKRIPT
+---------
+#!/usr/bin/env bash
+while read -r line; do
+echo "$line" >> ~/Rhodes/data.csv
+done
+------------
+
+
+2-SKRIPT
+Hier werden zwei Variablen mit Kommandosubstitutionen erstellt und dann wird geguckt ob der Anzahl der Zeilen gleich ist
+--------------------
+ 1 #!/usr/bin/env bash
+  2
+  3 rhodescheck=$(cat ~/rhodes-last.txt) | speicher den Inhalt 
+  4 rhodesvergleich=$(wc -l < ~/rhodes/data.csv) | speichert die Zeilen der Datei data.csv
+  5
+  6 if test "$rhodescheck" -eq "$rhodesvergleich" ; then | wenn die Bedingung wahr ist, d.h.
+  7   kill "$(cat ~/rhodes.pid)" &>/dev/null
+  8   ncat -e ~/readandwrite.sh rhodes 8082 &
+  9   echo "$!" > ~/rhodes.pid
+ 10 fi
+ 11
+ 12 echo "$rhodesvergleich" > rhodes-last.txt
+
+
+Das Skript überprüft, ob die Anzahl der Zeilen in der Datei ~/rhodes/data.csv gleich dem Wert ist, der in ~/rhodes-last.txt gespeichert ist. Wenn sie gleich sind, beendet es einen laufenden Prozess (dessen PID in ~/rhodes.pid gespeichert ist), startet einen neuen ncat-Prozess, der das Skript ~/readandwrite.sh auf dem Host rhodes auf Port 8082 ausführt, und speichert die neue PID dieses Prozesses in ~/rhodes.pid. Schließlich wird die aktuelle Anzahl der Zeilen in ~/rhodes-last.txt aktualisiert.
