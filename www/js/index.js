@@ -29,16 +29,3 @@ document.getElementById('registerForm').addEventListener('submit', function(e) {
     xhr.send();
 });
 
-document.getElementById('loginForm').addEventListner('submit', function(e){
-       e.preventDefault();
-     
-  let xhr = new XMLHttpRequest(); 
-   xhr.open('GET' , baseURL + 'login.sh?', true);
-  
-   xhr.onreadystatechange = function(){
-    if(xhr.readyState === 4 && xhr.status === 200){
-    console.log(xhr.responseText);
-
-    }
-     xhr.send();
-});
