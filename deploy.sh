@@ -1,3 +1,3 @@
 #!/bin/bash
-cp -a www/* /var/www/html/$USER-web/Books_mangment
-cp -a cgi/* /usr/lib/cgi-bin/Books_mangment
+cp -a www/* /var/www/html/$USER-web/project_2024
+cp -a cgi/* /usr/lib/cgi-bin/project_2024

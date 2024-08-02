@@ -1,0 +1,853 @@
+2024-07-26 11:13:42|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5366|36.6|228|39|0|Not available|false|2227
+2024-07-26 11:13:42|1|211599340|0|Under way using engine|nan|0|true|8.5804|53.5364|248.7|511|41|0|Not available|true|2256
+2024-07-26 11:13:43|1|211116250|0|Under way using engine|nan|1|false|8.5773|53.5307|210.9|511|40|1|No special maneuver|false|49317
+2024-07-26 11:13:47|1|211595610|0|Under way using engine|nan|4.2|true|8.5793|53.5363|68|511|46|0|Not available|true|67232
+2024-07-26 11:13:50|1|211253400|15|Not defined|nan|0|false|8.5729|53.5455|0|511|45|0|Not available|false|49245
+2024-07-26 11:13:51|1|211116250|0|Under way using engine|nan|1|false|8.5773|53.5307|208.7|511|48|1|No special maneuver|false|67401
+2024-07-26 11:13:55|1|211595610|0|Under way using engine|nan|3.7|true|8.5796|53.5363|67.9|511|54|0|Not available|true|49349
+2024-07-26 11:13:56|1|211467050|0|Under way using engine|nan|4.3|false|8.5778|53.5333|4.7|511|54|1|No special maneuver|true|21044
+2024-07-26 11:14:00|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5366|36.6|228|57|0|Not available|false|49263
+2024-07-26 11:14:04|1|211599340|0|Under way using engine|nan|0.1|true|8.5804|53.5364|231.9|511|3|0|Not available|true|65621
+2024-07-26 11:14:07|3|211467050|0|Under way using engine|nan|4.9|true|8.5779|53.5336|9.1|511|5|1|No special maneuver|true|68307
+2024-07-26 11:14:17|1|211595610|0|Under way using engine|nan|1.9|true|8.58|53.5364|70.7|511|16|0|Not available|true|21048
+2024-07-26 11:14:18|1|211467050|0|Under way using engine|nan|6.4|false|8.578|53.5339|8.7|511|16|1|No special maneuver|true|98929
+2024-07-26 11:14:21|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5366|36.6|228|18|0|Not available|false|49272
+2024-07-26 11:14:21|1|211116250|0|Under way using engine|nan|0.3|false|8.5772|53.5306|204.5|511|19|1|No special maneuver|false|82086
+2024-07-26 11:14:24|1|211599340|0|Under way using engine|nan|0.2|true|8.5804|53.5364|250.9|511|23|0|Not available|true|21048
+2024-07-26 11:14:26|1|211595610|0|Under way using engine|nan|1.2|true|8.5801|53.5365|70|511|25|0|Not available|true|33687
+2024-07-26 11:14:27|3|211467050|0|Under way using engine|nan|6.7|false|8.578|53.5342|0.8|511|25|1|No special maneuver|true|57025
+2024-07-26 11:14:27|3|211235180|5|Moored|nan|0.1|false|8.5782|53.5368|188.1|511|24|0|Not available|false|0
+2024-07-26 11:14:32|1|211599340|0|Under way using engine|nan|0.1|true|8.5804|53.5364|281.6|511|31|0|Not available|true|49302
+2024-07-26 11:14:36|1|211595610|0|Under way using engine|nan|0.5|true|8.5802|53.5365|65.6|511|35|0|Not available|true|2219
+2024-07-26 11:14:42|3|211225920|5|Moored|undefined|0|true|8.5814|53.5374|235.5|233|39|0|Not available|false|0
+2024-07-26 11:14:47|1|211595610|0|Under way using engine|nan|0.2|true|8.5802|53.5365|65.7|511|46|0|Not available|true|49349
+2024-07-26 11:15:05|5|211220820|0|DB8903|KS 3|99|Other Type - no additional information|59|0|0|10|1|00-00T24:60Z|undefined|0|0|24|60|1.2|BHV - RSS - BHV|0
+2024-07-26 11:15:06|1|211595610|0|Under way using engine|nan|0.1|true|8.5803|53.5365|64.5|511|5|0|Not available|true|2246
+2024-07-26 11:15:10|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5366|36.6|228|7|0|Not available|false|21052
+2024-07-26 11:15:13|5|211386490|8779229|DBHN|NADIR|90|Other Type - all ships of this type|11|5|2|2|1|01-22T16:00Z|undefined|1|22|16|0|1.1|SURVEY OPERATION|0
+2024-07-26 11:15:14|1|211599340|0|Under way using engine|nan|0|true|8.5804|53.5364|270.6|511|13|0|Not available|true|49302
+2024-07-26 11:15:18|3|211172030|5|Moored|undefined|0.1|true|8.577|53.5339|279.1|248|15|0|Not available|false|84922
+2024-07-26 11:15:19|1|211540110|0|Under way using engine|undefined|0|false|8.5775|53.5365|241.9|235|18|0|Not available|false|66212
+2024-07-26 11:15:19|3|211386490|5|Moored|undefined|0|false|8.5819|53.5377|52|237|18|0|Not available|false|85818
+2024-07-26 11:15:21|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5366|36.6|228|18|0|Not available|false|33498
+2024-07-26 11:15:24|1|211599340|0|Under way using engine|nan|0.1|true|8.5804|53.5364|266.2|511|23|0|Not available|true|2204
+2024-07-26 11:15:26|1|211595610|0|Under way using engine|nan|0|true|8.5803|53.5365|55|511|25|0|Not available|true|21052
+2024-07-26 11:15:27|1|211467050|0|Under way using engine|nan|6.2|false|8.5759|53.5354|292.8|511|25|1|No special maneuver|true|49278
+2024-07-26 11:15:28|1|211540110|0|Under way using engine|undefined|0|false|8.5775|53.5365|238.8|234|27|0|Not available|false|2292
+2024-07-26 11:15:32|1|211116250|0|Under way using engine|nan|0.3|false|8.5771|53.5305|212.4|511|30|1|No special maneuver|false|2197
+2024-07-26 11:15:36|1|211595610|0|Under way using engine|nan|0|true|8.5803|53.5365|45.3|511|34|0|Not available|true|114885
+2024-07-26 11:15:37|1|211467050|0|Under way using engine|nan|7|false|8.5753|53.5355|289.9|511|36|1|No special maneuver|true|99654
+2024-07-26 11:15:38|5|211235180|0|DBAC|HERMANN RUDOLF MEYER|51|Search and Rescue vessel|11|12|3|3|1|01-01T00:00Z|undefined|1|1|0|0|1.6||0
+2024-07-26 11:15:47|1|211595610|0|Under way using engine|nan|0|true|8.5803|53.5365|40.1|511|46|0|Not available|true|34464
+2024-07-26 11:15:49|1|211540110|0|Under way using engine|undefined|0|false|8.5775|53.5365|247.2|234|48|0|Not available|false|21052
+2024-07-26 11:15:50|3|211630370|5|Moored|4.733|0|false|8.5742|53.5231|248.5|179|49|0|Not available|false|85594
+2024-07-26 11:15:50|1|211537690|0|Under way using engine|undefined|0|false|8.5781|53.5366|266.3|230|49|0|Not available|false|82020
+2024-07-26 11:15:51|5|211718100|0|DK8884|GREENPORTS 1|79|Cargo - No additional information|56|15|5|6|0|09-16T23:00Z|undefined|9|16|23|0|2|BREMERHAVEN|0
+2024-07-26 11:15:53|1|211599340|0|Under way using engine|nan|0.1|true|8.5804|53.5364|291|511|52|0|Not available|true|67488
+2024-07-26 11:16:01|5|211467050|0|DA2972|MARU|20|Wing in ground (WIG) - all ships of this type|0|0|1|0|0|08-09T20:19Z|undefined|8|9|20|19|2.5|BREMEN|0
+2024-07-26 11:16:01|18|211237120|0|true|8.5834|53.5337|360|511|59|true|458755
+2024-07-26 11:16:04|1|211599340|0|Under way using engine|nan|0|true|8.5804|53.5364|307.4|511|3|0|Not available|true|32853
+2024-07-26 11:16:06|1|211595610|0|Under way using engine|nan|0|true|8.5803|53.5365|27.9|511|5|0|Not available|true|98471
+2024-07-26 11:16:07|1|211467050|0|Under way using engine|nan|5.7|false|8.5738|53.5356|272|511|5|1|No special maneuver|true|21056
+2024-07-26 11:16:10|1|211540110|0|Under way using engine|undefined|0|false|8.5775|53.5365|227.5|234|9|0|Not available|false|49272
+2024-07-26 11:16:10|1|211537690|0|Under way using engine|undefined|0|false|8.578|53.5366|179.1|231|9|0|Not available|false|33109
+2024-07-26 11:16:13|3|209275000|1|At anchor|undefined|0|true|8.5524|53.5183|278.7|223|11|0|Not available|false|84938
+2024-07-26 11:16:16|1|211399710|0|Under way using engine|undefined|7.8|true|8.571|53.5308|28.8|21|14|0|Not available|false|2245
+2024-07-26 11:16:18|5|211233660|9154804|DBLF|WESERLOTSE|50|Pilot Vessel1|16|13|4|4|1|01-01T00:00Z|undefined|1|1|0|0|3||0
+2024-07-26 11:16:18|1|211467050|0|Under way using engine|nan|4.7|false|8.5734|53.5356|259.6|511|16|1|No special maneuver|true|66161
+2024-07-26 11:16:19|1|211540110|0|Under way using engine|undefined|0|false|8.5775|53.5365|244.6|234|18|0|Not available|false|49272
+2024-07-26 11:16:23|1|211599340|0|Under way using engine|nan|0.1|true|8.5804|53.5364|305.9|511|21|0|Not available|true|66328
+2024-07-26 11:16:23|24|211300110|B|B|37|Pleasure Craft|DD6026|null|AMC   B|8|133152|6|0|0|3
+2024-07-26 11:16:24|1|211399710|0|Under way using engine|fastright|7.7|true|8.5712|53.5311|26.7|23|22|0|Not available|false|21056
+2024-07-26 11:16:26|1|211595610|0|Under way using engine|nan|0|true|8.5803|53.5365|17.6|511|25|0|Not available|true|2223
+2024-07-26 11:16:27|1|211467050|0|Under way using engine|nan|6.1|false|8.5729|53.5354|252.9|511|25|1|No special maneuver|true|33718
+2024-07-26 11:16:29|1|211540110|0|Under way using engine|undefined|0|false|8.5775|53.5365|254.3|233|28|0|Not available|false|99354
+2024-07-26 11:16:32|1|211599340|0|Under way using engine|nan|0|true|8.5804|53.5364|302.5|511|31|0|Not available|true|21056
+2024-07-26 11:16:34|5|211172030|0|DF4369|LESMONA|55|Law Enforcement|11|5|3|2|1|07-09T21:00Z|undefined|7|9|21|0|1.4|DEBRV|0
+2024-07-26 11:16:36|1|211595610|0|Under way using engine|nan|0|false|8.5803|53.5365|9.7|511|34|0|Not available|true|99587
+2024-07-26 11:16:37|3|211322590|5|Moored|undefined|0.1|false|8.5768|53.534|29.3|245|39|0|Not available|false|216234
+2024-07-26 11:16:37|1|211467050|0|Under way using engine|nan|5.9|false|8.5726|53.5354|250.4|511|36|1|No special maneuver|true|82057
+2024-07-26 11:16:47|3|211595610|0|Under way using engine|nan|0|false|8.5803|53.5366|2.7|511|46|0|Not available|true|22499
+2024-07-26 11:16:53|1|211599340|0|Under way using engine|nan|0|true|8.5804|53.5364|298.3|511|52|0|Not available|true|49301
+2024-07-26 11:16:55|1|211595610|0|Under way using engine|nan|0|false|8.5804|53.5366|357.9|511|54|0|Not available|true|2289
+2024-07-26 11:16:57|5|211225920|0|DBLO|FRANZIUSPLATE|0|Not available|0|0|0|0|1|01-25T14:30Z|undefined|1|25|14|30|1.2|BREMERHAVEN|0
+2024-07-26 11:17:00|1|211116250|0|Under way using engine|nan|0|false|8.577|53.5304|218.8|511|59|1|No special maneuver|false|2214
+2024-07-26 11:17:10|1|211233660|15|Not defined|undefined|0|false|8.5779|53.5366|36.6|228|9|0|Not available|false|65916
+2024-07-26 11:17:11|3|210525000|5|Moored|undefined|0|false|8.576|53.5231|278.5|182|10|0|Not available|false|0
+2024-07-26 11:17:11|1|211116250|0|Under way using engine|nan|0.1|false|8.577|53.5304|218.8|511|10|1|No special maneuver|false|21060
+2024-07-26 11:17:12|1|211599340|0|Under way using engine|nan|0|true|8.5804|53.5364|293|511|13|0|Not available|true|21060
+2024-07-26 11:17:13|1|211595610|0|Under way using engine|nan|0|false|8.5803|53.5365|345.2|511|14|0|Not available|true|66051
+2024-07-26 11:17:14|1|211399710|0|Under way using engine|nan|7.3|true|8.5725|53.5327|22.1|16|14|0|Not available|false|66073
+2024-07-26 11:17:16|1|211467050|0|Under way using engine|nan|6|false|8.5708|53.5346|233.4|511|16|1|No special maneuver|true|49290
+2024-07-26 11:17:21|1|211599340|0|Under way using engine|nan|0|true|8.5804|53.5364|291.8|511|21|0|Not available|true|49301
+2024-07-26 11:17:23|1|211595610|0|Under way using engine|nan|0|true|8.5803|53.5365|340.6|511|24|0|Not available|true|66428
+2024-07-26 11:17:24|3|211235180|5|Moored|nan|0.1|false|8.5782|53.5368|176.5|511|23|0|Not available|false|0
+2024-07-26 11:17:28|1|211540110|0|Under way using engine|undefined|0|false|8.5775|53.5365|256.1|235|28|0|Not available|false|82040
+2024-07-26 11:17:30|1|211599340|0|Under way using engine|nan|0|true|8.5804|53.5364|290.4|511|31|0|Not available|true|2272
+2024-07-26 11:17:34|1|211595610|0|Under way using engine|nan|0|false|8.5803|53.5365|335|511|35|0|Not available|true|82118
+2024-07-26 11:17:39|3|211225920|5|Moored|undefined|0|true|8.5814|53.5375|235.5|234|38|0|Not available|false|0
+2024-07-26 11:17:39|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5366|36.6|228|38|0|Not available|false|49287
+2024-07-26 11:17:49|1|211116250|0|Under way using engine|nan|0.4|false|8.577|53.5304|224|511|48|1|No special maneuver|false|2259
+2024-07-26 11:17:52|1|211599340|0|Under way using engine|nan|0|true|8.5804|53.5364|287.5|511|52|0|Not available|true|34720
+2024-07-26 11:17:52|3|211885430|5|Moored|undefined|0|false|8.5836|53.5086|355.1|173|50|0|Not available|false|84266
+2024-07-26 11:17:55|1|211467050|0|Under way using engine|nan|7.1|true|8.5692|53.5339|226.7|511|55|1|No special maneuver|true|67630
+2024-07-26 11:18:02|1|211599340|0|Under way using engine|nan|0|true|8.5804|53.5364|286.5|511|3|0|Not available|true|2189
+2024-07-26 11:18:10|3|211399710|0|Under way using engine|fastright|6.8|true|8.5737|53.5344|31.9|43|10|0|Not available|false|3984
+2024-07-26 11:18:11|1|211116250|0|Under way using engine|nan|0.7|false|8.5769|53.5303|195|511|10|1|No special maneuver|false|2206
+2024-07-26 11:18:12|1|211599340|0|Under way using engine|nan|0|true|8.5804|53.5364|285.4|511|13|0|Not available|true|2204
+2024-07-26 11:18:13|1|211595610|0|Under way using engine|nan|0|true|8.5803|53.5365|322.6|511|14|0|Not available|true|49351
+2024-07-26 11:18:14|1|211399710|0|Under way using engine|fastright|6.7|true|8.5738|53.5345|34.2|44|14|0|Not available|false|49305
+2024-07-26 11:18:16|3|211172030|5|Moored|undefined|0|true|8.577|53.5338|198.2|248|15|0|Not available|false|84842
+2024-07-26 11:18:23|1|211595610|0|Under way using engine|nan|0|false|8.5803|53.5365|321.3|511|24|0|Not available|true|49351
+2024-07-26 11:18:31|1|211599340|0|Under way using engine|nan|0|true|8.5804|53.5364|286.3|511|32|0|Not available|true|114837
+2024-07-26 11:18:34|1|211399710|0|Under way using engine|fastright|6.4|true|8.5744|53.535|38.3|58|34|0|Not available|false|49304
+2024-07-26 11:18:39|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5366|36.6|228|38|0|Not available|false|34261
+2024-07-26 11:18:40|3|211399710|0|Under way using engine|fastright|6|true|8.5746|53.5351|39.7|67|40|0|Not available|false|4224
+2024-07-26 11:18:41|3|211599340|0|Under way using engine|nan|0|true|8.5804|53.5364|286|511|41|0|Not available|true|12849
+2024-07-26 11:18:43|1|211595610|0|Under way using engine|nan|0|true|8.5803|53.5365|315.9|511|44|0|Not available|true|99931
+2024-07-26 11:18:47|3|211630370|5|Moored|8.197796472223494|0|false|8.5742|53.5231|248.5|179|48|0|Not available|false|84186
+2024-07-26 11:18:49|1|245586000|0|Under way using engine|undefined|0|true|8.5665|53.5468|321|336|47|0|Not available|false|2242
+2024-07-26 11:18:52|1|211599340|0|Under way using engine|nan|0|true|8.5804|53.5364|285.4|511|52|0|Not available|true|21064
+2024-07-26 11:18:57|1|211540110|0|Under way using engine|undefined|0|false|8.5775|53.5365|242.1|233|58|0|Not available|false|34927
+2024-07-26 11:18:58|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5366|36.6|228|57|0|Not available|false|82027
+2024-07-26 11:19:00|5|211599340|0|DC4779|NORDENHAM|60|Passenger - all ships of this type|30|30|7|7|0|01-05T00:00Z|undefined|1|5|0|0|2.5|BREMERHAVEN-NORDENAM|0
+2024-07-26 11:19:00|3|211399710|0|Under way using engine|fastright|5|true|8.5753|53.5353|69|94|0|0|Not available|false|4144
+2024-07-26 11:19:00|1|211599340|0|Under way using engine|nan|0|true|8.5804|53.5364|284|511|1|0|Not available|true|65560
+2024-07-26 11:19:03|3|211399710|0|Under way using engine|fastright|4.9|true|8.5754|53.5353|74.2|97|3|0|Not available|false|30323
+2024-07-26 11:19:08|1|211540110|0|Under way using engine|undefined|0|false|8.5775|53.5365|233|233|9|0|Not available|false|2241
+2024-07-26 11:19:08|1|211537690|0|Under way using engine|undefined|0|false|8.578|53.5367|240.7|229|9|0|Not available|false|49253
+2024-07-26 11:19:10|1|211116250|0|Under way using engine|nan|0.1|false|8.5769|53.5302|200|511|9|1|No special maneuver|false|98681
+2024-07-26 11:19:10|1|211233660|15|Not defined|undefined|0|false|8.5779|53.5366|36.6|228|9|0|Not available|false|33148
+2024-07-26 11:19:10|3|211399710|0|Under way using engine|fastright|4.9|true|8.5757|53.5353|84.9|106|10|0|Not available|false|3920
+2024-07-26 11:19:11|1|211599340|0|Under way using engine|nan|0|true|8.5804|53.5364|282|511|12|0|Not available|true|82069
+2024-07-26 11:19:11|3|209275000|1|At anchor|undefined|0|true|8.5524|53.5183|278.7|223|11|0|Not available|false|84938
+2024-07-26 11:19:14|1|211399710|0|Under way using engine|fastright|4.8|true|8.5758|53.5353|89.1|109|14|0|Not available|false|33305
+2024-07-26 11:19:20|3|211399710|0|Under way using engine|fastright|4.2|true|8.576|53.5353|98|112|20|0|Not available|false|4128
+2024-07-26 11:19:20|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5366|36.6|228|19|0|Not available|false|66305
+2024-07-26 11:19:21|1|211599340|0|Under way using engine|nan|0|true|8.5804|53.5364|281.3|511|21|0|Not available|true|21068
+2024-07-26 11:19:23|1|211595610|0|Under way using engine|nan|0|false|8.5804|53.5366|296.2|511|24|0|Not available|true|33660
+2024-07-26 11:19:24|1|211399710|0|Under way using engine|fastright|3.8|true|8.5761|53.5353|103.2|113|24|0|Not available|false|49304
+2024-07-26 11:19:29|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5366|36.6|228|28|0|Not available|false|49271
+2024-07-26 11:19:30|3|211399710|0|Under way using engine|fastright|3.3|true|8.5762|53.5353|108.1|115|30|0|Not available|false|3744
+2024-07-26 11:19:31|1|211599340|0|Under way using engine|nan|0|true|8.5804|53.5364|279.4|511|32|0|Not available|true|99482
+2024-07-26 11:19:33|5|210525000|9466233|5BCL6|HILDA B|70|Cargo - all ships of this type|75|13|4|9|1|04-25T08:00Z|undefined|4|25|8|0|4|DEBRE|0
+2024-07-26 11:19:34|1|211595610|0|Under way using engine|nan|0|false|8.5804|53.5366|293|511|35|0|Not available|true|49350
+2024-07-26 11:19:34|1|211399710|0|Under way using engine|fastright|3.1|true|8.5763|53.5352|110.2|116|34|0|Not available|false|34067
+2024-07-26 11:19:35|3|211322590|5|Moored|undefined|0|false|8.5768|53.534|69.7|244|39|0|Not available|false|216938
+2024-07-26 11:19:37|1|211540110|0|Under way using engine|undefined|0|false|8.5775|53.5365|249.1|233|37|0|Not available|false|21068
+2024-07-26 11:19:38|3|211411980|5|Moored|undefined|0|true|8.5823|53.5379|321.2|231|35|0|Not available|false|84794
+2024-07-26 11:19:40|1|211116250|0|Under way using engine|nan|0.6|false|8.5768|53.5302|200|511|38|1|No special maneuver|false|21068
+2024-07-26 11:19:40|3|211399710|0|Under way using engine|fastright|2.8|true|8.5764|53.5352|111.6|118|40|0|Not available|false|3872
+2024-07-26 11:19:41|1|211599340|0|Under way using engine|nan|0|false|8.5804|53.5364|276.7|511|41|0|Not available|true|21068
+2024-07-26 11:19:42|3|211220910|5|Moored|nan|0|true|8.5785|53.5282|360|511|42|0|Not available|true|84314
+2024-07-26 11:19:43|1|211595610|0|Under way using engine|nan|0|false|8.5803|53.5365|290.6|511|44|0|Not available|true|82118
+2024-07-26 11:19:47|3|211399710|0|Under way using engine|fastright|2.6|true|8.5765|53.5352|111.6|121|46|0|Not available|false|8112
+2024-07-26 11:19:50|1|211116250|0|Under way using engine|nan|0.9|false|8.5768|53.5302|197.8|511|49|1|No special maneuver|false|67410
+2024-07-26 11:19:52|1|211599340|0|Under way using engine|nan|0|true|8.5804|53.5364|275.7|511|52|0|Not available|true|2258
+2024-07-26 11:19:53|5|211399710|0|DA7304|GREIF|52|Tug|12|11|2|5|3|00-00T24:60Z|undefined|0|0|24|60|0||0
+2024-07-26 11:19:57|3|211399710|0|Under way using engine|fastright|2.4|true|8.5767|53.5351|114.8|127|57|0|Not available|false|7840
+2024-07-26 11:19:58|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5366|36.6|228|57|0|Not available|false|67741
+2024-07-26 11:20:00|1|211599340|0|Under way using engine|nan|0|false|8.5804|53.5364|275.1|511|1|0|Not available|true|49301
+2024-07-26 11:20:04|1|211595610|0|Under way using engine|nan|0|true|8.5803|53.5365|285|511|5|0|Not available|true|32935
+2024-07-26 11:20:08|1|211540110|0|Under way using engine|undefined|0|false|8.5775|53.5364|227.3|234|8|0|Not available|false|114808
+2024-07-26 11:20:10|1|211116250|0|Under way using engine|nan|1.3|false|8.5767|53.53|200.3|511|9|1|No special maneuver|false|82087
+2024-07-26 11:20:10|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5366|36.6|228|9|0|Not available|false|21072
+2024-07-26 11:20:10|3|211399710|0|Under way using engine|fastright|2.3|true|8.5769|53.5351|120.9|134|10|0|Not available|false|4160
+2024-07-26 11:20:11|3|210525000|5|Moored|undefined|0|false|8.576|53.5231|278.5|182|11|0|Not available|false|0
+2024-07-26 11:20:13|1|211595610|0|Under way using engine|nan|0|true|8.5803|53.5365|283.4|511|14|0|Not available|true|21072
+2024-07-26 11:20:17|3|211399710|0|Under way using engine|fastright|2.2|true|8.577|53.535|124.6|138|17|0|Not available|false|8032
+2024-07-26 11:20:19|18|211300110|0|false|8.5873|53.5348|360|511|19|false|458755
+2024-07-26 11:20:20|3|211399710|0|Under way using engine|fastright|2.2|true|8.577|53.535|126.8|139|20|0|Not available|false|4240
+2024-07-26 11:20:21|1|211599340|0|Under way using engine|nan|0|false|8.5804|53.5364|274|511|21|0|Not available|true|2263
+2024-07-26 11:20:25|3|211235180|5|Moored|nan|0.1|false|8.5782|53.5368|180.5|511|23|0|Not available|false|0
+2024-07-26 11:20:27|3|211399710|0|Under way using engine|fastright|2.1|true|8.5771|53.535|131.8|141|27|0|Not available|false|7872
+2024-07-26 11:20:29|1|211116250|0|Under way using engine|nan|1.5|false|8.5766|53.5299|207.3|511|28|1|No special maneuver|false|21072
+2024-07-26 11:20:31|3|211399710|0|Under way using engine|undefined|2|true|8.5772|53.5349|135.9|141|30|0|Not available|false|3936
+2024-07-26 11:20:31|1|211599340|0|Under way using engine|nan|0|false|8.5804|53.5364|272.4|511|32|0|Not available|true|82068
+2024-07-26 11:20:34|1|211399710|0|Under way using engine|undefined|2|true|8.5772|53.5349|140.9|141|34|0|Not available|false|21072
+2024-07-26 11:20:36|3|211220820|5|Moored|nan|0|false|8.5786|53.5282|179.6|511|35|0|Not available|false|85146
+2024-07-26 11:20:37|3|211399710|0|Under way using engine|undefined|2|true|8.5772|53.5349|144.1|141|37|0|Not available|false|7808
+2024-07-26 11:20:38|5|218709000|9502233|DBJC|ALTE WESER|55|Law Enforcement|3|30|2|4|1|07-11T15:00Z|undefined|7|11|15|0|1.8|PATROL|0
+2024-07-26 11:20:40|3|211225920|5|Moored|undefined|0|true|8.5814|53.5374|235.5|233|39|0|Not available|false|0
+2024-07-26 11:20:41|1|211599340|0|Under way using engine|nan|0|true|8.5804|53.5364|272.5|511|41|0|Not available|true|2273
+2024-07-26 11:20:42|5|218709000|9502233|DBJC|ALTE WESER|55|Law Enforcement|3|30|2|4|1|07-11T15:00Z|undefined|7|11|15|0|1.8|PATROL|0
+2024-07-26 11:20:43|1|211399710|0|Under way using engine|undefined|2|true|8.5773|53.5348|146.7|141|42|0|Not available|false|21072
+2024-07-26 11:20:47|3|211399710|0|Under way using engine|undefined|1.9|true|8.5773|53.5348|147|141|46|0|Not available|false|8080
+2024-07-26 11:20:47|1|211540110|0|Under way using engine|undefined|0|false|8.5775|53.5365|246.3|235|48|0|Not available|false|34554
+2024-07-26 11:20:50|1|211116250|0|Under way using engine|nan|1.4|false|8.5765|53.5298|203.3|511|49|1|No special maneuver|false|49320
+2024-07-26 11:20:52|1|211599340|0|Under way using engine|nan|0|true|8.5804|53.5364|272.1|511|53|0|Not available|true|114835
+2024-07-26 11:20:52|3|211885430|5|Moored|undefined|0|false|8.5836|53.5086|355.1|173|49|0|Not available|false|85178
+2024-07-26 11:20:54|1|211399710|0|Under way using engine|undefined|1.7|true|8.5773|53.5348|148.2|141|54|0|Not available|false|67587
+2024-07-26 11:20:54|1|211595610|0|Under way using engine|nan|0|true|8.5803|53.5365|277|511|55|0|Not available|true|2235
+2024-07-26 11:20:59|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5366|36.6|228|57|0|Not available|false|49262
+2024-07-26 11:21:00|3|211399710|0|Under way using engine|undefined|1.6|true|8.5774|53.5347|149.6|141|0|0|Not available|false|0
+2024-07-26 11:21:00|1|211599340|0|Under way using engine|nan|0|true|8.5804|53.5364|271.2|511|1|0|Not available|true|32792
+2024-07-26 11:21:10|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5366|36.6|228|9|0|Not available|false|2249
+2024-07-26 11:21:11|5|211386490|8779229|DBHN|NADIR|90|Other Type - all ships of this type|11|5|2|2|1|01-22T16:00Z|undefined|1|22|16|0|1.1|SURVEY OPERATION|0
+2024-07-26 11:21:14|1|211399710|0|Under way using engine|undefined|1.3|true|8.5774|53.5347|151.9|141|14|0|Not available|false|2264
+2024-07-26 11:21:15|1|211467050|0|Under way using engine|nan|6.3|false|8.5639|53.5287|211.2|511|14|1|No special maneuver|true|82068
+2024-07-26 11:21:15|3|211386490|5|Moored|undefined|0|false|8.5819|53.5377|52|238|16|0|Not available|false|87370
+2024-07-26 11:21:16|24|211816240|B|B|37|Pleasure Craft|DK2021|null|SRTEK-|1|309385|9|2|2|1
+2024-07-26 11:21:20|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5366|36.6|228|19|0|Not available|false|33537
+2024-07-26 11:21:24|1|211595610|0|Under way using engine|nan|0|true|8.5803|53.5365|277|511|24|0|Not available|true|2236
+2024-07-26 11:21:29|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5366|36.6|228|28|0|Not available|false|21076
+2024-07-26 11:21:31|1|211599340|0|Under way using engine|nan|0|true|8.5804|53.5364|269.2|511|32|0|Not available|true|66714
+2024-07-26 11:21:34|3|211540110|0|Under way using engine|nan|1.4|false|8.5774|53.5365|232.5|226|34|0|Not available|false|4352
+2024-07-26 11:21:34|1|211595610|0|Under way using engine|nan|0|true|8.5803|53.5365|277|511|35|0|Not available|true|21076
+2024-07-26 11:21:35|5|211322590|0|DBQE|WSP 3|55|Law Enforcement|15|15|4|3|1|07-23T17:00Z|undefined|7|23|17|0|2.2|DEBRV|0
+2024-07-26 11:21:37|5|211235180|0|DBAC|HERMANN RUDOLF MEYER|51|Search and Rescue vessel|11|12|3|3|1|01-01T00:00Z|undefined|1|1|0|0|1.6||0
+2024-07-26 11:21:40|3|211233660|15|Not defined|undefined|0|false|8.5778|53.5366|36.6|228|39|0|Not available|false|20531
+2024-07-26 11:21:41|3|211540110|0|Under way using engine|undefined|4.4|false|8.5772|53.5363|224.9|223|42|0|Not available|false|7520
+2024-07-26 11:21:43|1|211399710|0|Under way using engine|undefined|1|true|8.5776|53.5345|154.5|139|42|0|Not available|false|2290
+2024-07-26 11:21:47|1|211540110|0|Under way using engine|undefined|6|false|8.577|53.5362|222.9|222|48|0|Not available|false|21076
+2024-07-26 11:21:50|3|211630370|5|Moored|8.197796472223494|0|false|8.5742|53.5231|248.5|179|50|0|Not available|false|84154
+2024-07-26 11:21:50|1|211116250|0|Under way using engine|nan|0.1|false|8.5763|53.5296|199.9|511|49|1|No special maneuver|false|34642
+2024-07-26 11:21:52|1|211599340|0|Under way using engine|nan|0|true|8.5804|53.5364|271.6|511|53|0|Not available|true|100264
+2024-07-26 11:21:54|1|211595610|0|Under way using engine|nan|0|true|8.5803|53.5365|275.4|511|55|0|Not available|true|114885
+2024-07-26 11:21:58|1|211540110|0|Under way using engine|fastright|7|false|8.5767|53.5359|220.9|229|59|0|Not available|false|67720
+2024-07-26 11:22:00|1|211116250|0|Under way using engine|nan|0.1|false|8.5763|53.5296|199.9|511|58|1|No special maneuver|false|21076
+2024-07-26 11:22:00|1|211599340|0|Under way using engine|nan|0|true|8.5804|53.5364|271.7|511|1|0|Not available|true|21080
+2024-07-26 11:22:01|3|211540110|0|Under way using engine|fastright|7.1|false|8.5765|53.5358|221.5|236|1|0|Not available|false|8176
+2024-07-26 11:22:10|1|211116250|0|Under way using engine|nan|0.2|false|8.5763|53.5296|196.2|511|9|1|No special maneuver|false|49319
+2024-07-26 11:22:10|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5366|36.6|228|9|0|Not available|false|65915
+2024-07-26 11:22:11|1|211599340|0|Under way using engine|nan|0|true|8.5804|53.5364|271.7|511|12|0|Not available|true|33190
+2024-07-26 11:22:20|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5366|36.6|228|19|0|Not available|false|21080
+2024-07-26 11:22:21|1|211599340|0|Under way using engine|nan|0.1|true|8.5805|53.5364|271.5|511|22|0|Not available|true|49297
+2024-07-26 11:22:22|24|211300110|A|A|TENDER TO ARIS
+2024-07-26 11:22:22|24|211300110|B|B|37|Pleasure Craft|DD6026|null|AMC   B|8|133152|6|0|0|3
+2024-07-26 11:22:23|1|211595610|0|Under way using engine|nan|2.9|true|8.5801|53.5365|251.2|511|24|0|Not available|true|49349
+2024-07-26 11:22:24|3|211540110|0|Under way using engine|fastright|10.1|false|8.575|53.5355|263.9|286|25|0|Not available|false|4176
+2024-07-26 11:22:28|1|211540110|0|Under way using engine|fastright|10.1|false|8.5747|53.5356|272.9|293|28|0|Not available|false|2220
+2024-07-26 11:22:29|1|211537690|0|Under way using engine|undefined|0|false|8.578|53.5367|259.7|229|30|0|Not available|false|2255
+2024-07-26 11:22:31|3|211540110|0|Under way using engine|fastright|10.3|false|8.5745|53.5356|283.6|297|32|0|Not available|false|4080
+2024-07-26 11:22:31|1|211599340|0|Under way using engine|nan|0.1|true|8.5805|53.5364|266.8|511|32|0|Not available|true|49297
+2024-07-26 11:22:33|5|211172030|0|DF4369|LESMONA|55|Law Enforcement|11|5|3|2|1|07-09T21:00Z|undefined|7|9|21|0|1.4|DEBRV|0
+2024-07-26 11:22:34|3|211540110|0|Under way using engine|fastright|10.6|false|8.5743|53.5357|288.1|301|34|0|Not available|false|4784
+2024-07-26 11:22:34|3|211595610|0|Under way using engine|nan|4.7|true|8.5798|53.5364|253.9|511|35|0|Not available|true|28435
+2024-07-26 11:22:34|1|211399710|0|Under way using engine|undefined|0.5|true|8.5777|53.5344|131.5|145|34|0|Not available|false|49299
+2024-07-26 11:22:36|3|211322590|5|Moored|undefined|0.1|false|8.5768|53.534|161.6|245|40|0|Not available|false|215786
+2024-07-26 11:22:39|3|211411980|5|Moored|undefined|0|true|8.5823|53.5379|321.2|231|35|0|Not available|false|85322
+2024-07-26 11:22:40|1|211116250|0|Under way using engine|nan|0.4|false|8.5763|53.5295|190.2|511|38|1|No special maneuver|false|49320
+2024-07-26 11:22:42|3|211220910|5|Moored|nan|0|true|8.5785|53.5282|360|511|41|0|Not available|true|84954
+2024-07-26 11:22:42|3|211540110|0|Under way using engine|fastright|11.9|false|8.5736|53.5359|301.6|308|42|0|Not available|false|7968
+2024-07-26 11:22:43|1|211595610|0|Under way using engine|nan|5.9|true|8.5795|53.5363|254|511|44|0|Not available|true|34395
+2024-07-26 11:22:44|1|211399710|0|Under way using engine|undefined|0.3|true|8.5777|53.5344|131.3|146|43|0|Not available|false|67185
+2024-07-26 11:22:45|3|211540110|0|Under way using engine|fastright|12.4|false|8.5734|53.5361|304.9|311|45|0|Not available|false|3504
+2024-07-26 11:22:50|3|211540110|0|Under way using engine|fastright|13.4|false|8.5729|53.5363|310|315|51|0|Not available|false|8192
+2024-07-26 11:22:52|1|211599340|0|Under way using engine|nan|0.1|true|8.5805|53.5364|260.6|511|53|0|Not available|true|82065
+2024-07-26 11:22:55|1|211399710|0|Under way using engine|undefined|0.2|true|8.5777|53.5344|125.4|147|54|0|Not available|false|34819
+2024-07-26 11:22:55|3|211540110|0|Under way using engine|fastright|13.8|false|8.5726|53.5365|314|317|56|0|Not available|false|3296
+2024-07-26 11:22:56|5|211225920|0|DBLO|FRANZIUSPLATE|0|Not available|0|0|0|0|1|01-25T14:30Z|undefined|1|25|14|30|1.2|BREMERHAVEN|0
+2024-07-26 11:22:59|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5366|36.6|228|57|0|Not available|false|21080
+2024-07-26 11:23:00|1|211599340|0|Under way using engine|nan|0|true|8.5805|53.5364|264.4|511|1|0|Not available|true|2303
+2024-07-26 11:23:01|1|211540110|0|Under way using engine|fastright|14.1|false|8.5722|53.5368|316.4|319|1|0|Not available|false|0
+2024-07-26 11:23:04|3|211540110|0|Under way using engine|undefined|15|false|8.5719|53.537|317.8|318|5|0|Not available|false|5424
+2024-07-26 11:23:08|3|211540110|0|Under way using engine|undefined|15.9|false|8.5716|53.5372|318.3|318|8|0|Not available|false|7265
+2024-07-26 11:23:10|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5366|36.6|229|9|0|Not available|false|49264
+2024-07-26 11:23:11|3|210525000|5|Moored|undefined|0|false|8.576|53.5232|278.5|182|11|0|Not available|false|0
+2024-07-26 11:23:14|1|211595610|0|Under way using engine|nan|7.9|true|8.5778|53.5359|247.9|511|15|0|Not available|true|33312
+2024-07-26 11:23:15|1|211399710|0|Under way using engine|undefined|0.1|true|8.5777|53.5344|136.8|148|14|0|Not available|false|49299
+2024-07-26 11:23:19|18|211300110|0|false|8.5873|53.5348|360|511|18|false|458755
+2024-07-26 11:23:20|3|211540110|0|Under way using engine|undefined|17.4|false|8.5705|53.5379|319.2|318|20|0|Not available|false|6865
+2024-07-26 11:23:20|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5366|36.6|229|19|0|Not available|false|2217
+2024-07-26 11:23:21|1|211599340|0|Under way using engine|nan|0|true|8.5805|53.5364|256.4|511|22|0|Not available|true|33573
+2024-07-26 11:23:23|1|211595610|0|Under way using engine|nan|8.1|true|8.5774|53.5358|245.6|511|24|0|Not available|true|33646
+2024-07-26 11:23:23|1|211399710|0|Under way using engine|undefined|0.1|true|8.5777|53.5344|114.8|149|23|0|Not available|false|66421
+2024-07-26 11:23:29|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5366|36.6|228|28|0|Not available|false|49276
+2024-07-26 11:23:31|1|211599340|0|Under way using engine|nan|0|true|8.5805|53.5364|250.9|511|32|0|Not available|true|33946
+2024-07-26 11:23:34|1|211595610|0|Under way using engine|nan|8.3|true|8.5767|53.5357|249.3|511|34|0|Not available|true|49348
+2024-07-26 11:23:37|3|211220820|5|Moored|nan|0|false|8.5786|53.5282|179.6|511|36|0|Not available|false|84122
+2024-07-26 11:23:39|3|211225920|5|Moored|undefined|0|true|8.5814|53.5375|235.5|233|38|0|Not available|false|0
+2024-07-26 11:23:40|1|211116250|0|Under way using engine|nan|0.1|false|8.5763|53.5294|210.1|511|38|1|No special maneuver|false|34263
+2024-07-26 11:23:40|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5366|36.6|229|39|0|Not available|false|67060
+2024-07-26 11:23:42|1|211599340|0|Under way using engine|nan|0|true|8.5805|53.5364|251.4|511|42|0|Not available|true|67102
+2024-07-26 11:23:44|3|211540110|0|Under way using engine|undefined|16.7|false|8.5683|53.5394|315.4|315|44|0|Not available|false|7361
+2024-07-26 11:23:44|1|211399710|0|Under way using engine|undefined|0.2|true|8.5778|53.5344|23.5|149|43|0|Not available|false|49297
+2024-07-26 11:23:48|1|211540110|0|Under way using engine|undefined|15.7|false|8.568|53.5395|315.3|314|48|0|Not available|false|0
+2024-07-26 11:23:52|1|211599340|0|Under way using engine|nan|0|true|8.5805|53.5364|250.2|511|53|0|Not available|true|67496
+2024-07-26 11:23:56|1|211540110|0|Under way using engine|fastright|14.9|false|8.5673|53.5399|315.7|320|56|0|Not available|false|114809
+2024-07-26 11:23:59|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5366|36.6|228|57|0|Not available|false|2282
+2024-07-26 11:24:00|1|211116250|0|Under way using engine|nan|0.6|false|8.5763|53.5294|14.7|511|58|1|No special maneuver|false|100545
+2024-07-26 11:24:02|1|211599340|0|Under way using engine|nan|0|true|8.5805|53.5364|248.2|511|2|0|Not available|true|114833
+2024-07-26 11:24:03|1|211399710|0|Under way using engine|undefined|0.3|true|8.5778|53.5344|353.5|149|3|0|Not available|false|49297
+2024-07-26 11:24:05|1|211595610|0|Under way using engine|nan|8.5|true|8.5748|53.5353|246.3|511|5|0|Not available|true|65715
+2024-07-26 11:24:08|1|211540110|0|Under way using engine|fastright|14.7|false|8.5665|53.5406|320.9|325|8|0|Not available|false|49273
+2024-07-26 11:24:10|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5366|36.6|228|9|0|Not available|false|33147
+2024-07-26 11:24:11|3|211599340|0|Under way using engine|nan|0|true|8.5805|53.5364|244.6|511|12|0|Not available|true|30387
+2024-07-26 11:24:15|1|211399710|0|Under way using engine|undefined|0.2|true|8.5778|53.5344|9.3|149|14|0|Not available|false|33319
+2024-07-26 11:24:15|3|211540110|0|Under way using engine|undefined|14.8|false|8.566|53.541|324.5|327|15|0|Not available|false|5472
+2024-07-26 11:24:16|3|211172030|5|Moored|undefined|0|true|8.577|53.5339|170.6|247|15|0|Not available|false|84938
+2024-07-26 11:24:17|3|211540110|0|Under way using engine|fastright|14.8|false|8.5659|53.5411|325.1|328|18|0|Not available|false|2336
+2024-07-26 11:24:17|3|211386490|5|Moored|undefined|0|false|8.5819|53.5377|52|237|18|0|Not available|false|85178
+2024-07-26 11:24:19|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5366|36.6|228|18|0|Not available|false|66272
+2024-07-26 11:24:23|1|211595610|0|Under way using engine|nan|8.4|true|8.5737|53.535|244.2|511|24|0|Not available|true|21088
+2024-07-26 11:24:23|1|211399710|0|Under way using engine|undefined|0.1|true|8.5778|53.5344|76.6|149|23|0|Not available|false|49296
+2024-07-26 11:24:26|1|211540110|0|Under way using engine|undefined|14.9|false|8.5653|53.5416|327|329|26|0|Not available|false|49273
+2024-07-26 11:24:29|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5367|36.6|228|28|0|Not available|false|33855
+2024-07-26 11:24:30|1|211537690|0|Under way using engine|undefined|0.1|false|8.5779|53.5366|248.1|226|30|0|Not available|false|99419
+2024-07-26 11:24:31|1|211116250|0|Under way using engine|nan|0.8|false|8.5763|53.5295|14.3|511|30|1|No special maneuver|false|33932
+2024-07-26 11:24:31|3|211599340|0|Under way using engine|nan|0|true|8.5805|53.5364|256.5|511|32|0|Not available|true|19841
+2024-07-26 11:24:31|1|211540110|0|Under way using engine|undefined|15|false|8.5649|53.5419|327.1|330|32|0|Not available|false|82041
+2024-07-26 11:24:34|1|211595610|0|Under way using engine|nan|8.3|true|8.5731|53.5348|236.3|511|34|0|Not available|true|34051
+2024-07-26 11:24:34|1|211399710|0|Under way using engine|undefined|0.2|true|8.5778|53.5344|131.6|150|34|0|Not available|false|21088
+2024-07-26 11:24:36|3|211540110|0|Under way using engine|fastright|15|false|8.5647|53.5422|327.4|331|36|0|Not available|false|2400
+2024-07-26 11:24:39|1|211537690|0|Under way using engine|undefined|0.1|false|8.5779|53.5366|291.4|224|39|0|Not available|false|2262
+2024-07-26 11:24:39|3|218709000|5|Moored|nan|0|false|8.5828|53.538|0|511|36|0|Not available|false|0
+2024-07-26 11:24:40|1|211116250|0|Under way using engine|nan|1|false|8.5763|53.5295|16.2|511|38|1|No special maneuver|false|21088
+2024-07-26 11:24:41|1|211233660|15|Not defined|undefined|0|false|8.5777|53.5367|36.6|228|39|0|Not available|false|49278
+2024-07-26 11:24:42|1|211599340|0|Under way using engine|nan|0.1|true|8.5805|53.5364|261.3|511|42|0|Not available|true|49298
+2024-07-26 11:24:43|1|211595610|0|Under way using engine|nan|8|true|8.5727|53.5346|235.4|511|44|0|Not available|true|2271
+2024-07-26 11:24:44|1|211540110|0|Under way using engine|undefined|15.1|false|8.5642|53.5427|329.2|332|44|0|Not available|false|82041
+2024-07-26 11:24:44|1|211399710|0|Under way using engine|undefined|0.3|true|8.5778|53.5344|144.6|150|43|0|Not available|false|34417
+2024-07-26 11:24:46|3|211718100|5|Moored|nan|0|true|8.5765|53.5306|360|511|45|0|Not available|true|84602
+2024-07-26 11:24:49|1|245586000|0|Under way using engine|undefined|0|true|8.5665|53.5468|321|336|46|0|Not available|false|21088
+2024-07-26 11:24:49|1|211537690|0|Under way using engine|undefined|0|false|8.5779|53.5367|332.6|225|50|0|Not available|false|67393
+2024-07-26 11:24:54|1|211595610|0|Under way using engine|nan|7.9|true|8.5721|53.5344|233.2|511|55|0|Not available|true|67573
+2024-07-26 11:24:55|1|211399710|0|Under way using engine|undefined|0.4|true|8.5778|53.5344|154.6|150|54|0|Not available|false|2183
+2024-07-26 11:24:58|1|211537690|0|Under way using engine|undefined|0.1|false|8.5779|53.5367|37.6|226|59|0|Not available|false|82021
+2024-07-26 11:25:05|1|211595610|0|Under way using engine|nan|7.9|true|8.5716|53.5341|234.5|511|5|0|Not available|true|49347
+2024-07-26 11:25:10|1|211253400|15|Not defined|nan|0|false|8.5729|53.5455|0|511|7|0|Not available|false|2249
+2024-07-26 11:25:11|1|211599340|0|Under way using engine|nan|0|true|8.5805|53.5364|265.5|511|12|0|Not available|true|49299
+2024-07-26 11:25:14|1|211595610|0|Under way using engine|nan|7.8|false|8.5711|53.5339|235.8|511|15|0|Not available|true|2252
+2024-07-26 11:25:15|18|211816240|0|true|8.5828|53.5339|360|511|15|true|304037
+2024-07-26 11:25:17|1|211225940|0|Under way using engine|undefined|8.6|false|8.5595|53.5444|143.1|141|17|0|Not available|false|49269
+2024-07-26 11:25:20|1|211233660|15|Not defined|undefined|0|false|8.5777|53.5366|36.6|228|18|0|Not available|false|49273
+2024-07-26 11:25:21|1|211116250|0|Under way using engine|nan|0.8|false|8.5764|53.5297|22.1|511|20|1|No special maneuver|false|66325
+2024-07-26 11:25:21|1|211599340|0|Under way using engine|nan|0|true|8.5805|53.5364|271.4|511|22|0|Not available|true|2280
+2024-07-26 11:25:29|1|211233660|15|Not defined|undefined|0|false|8.5777|53.5366|36.6|228|28|0|Not available|false|21092
+2024-07-26 11:25:31|1|211116250|0|Under way using engine|nan|0.8|false|8.5765|53.5298|19.8|511|30|1|No special maneuver|false|21092
+2024-07-26 11:25:37|3|211322590|5|Moored|undefined|0.1|false|8.5768|53.534|140.9|245|40|0|Not available|false|215850
+2024-07-26 11:25:37|1|211225940|0|Under way using engine|undefined|8.7|false|8.5603|53.5438|142.9|142|37|0|Not available|false|66931
+2024-07-26 11:25:39|3|211537690|0|Under way using engine|undefined|0|false|8.5779|53.5367|335|228|39|0|Not available|false|21811
+2024-07-26 11:25:40|1|211116250|0|Under way using engine|nan|0.9|false|8.5765|53.5298|17|511|38|1|No special maneuver|false|2287
+2024-07-26 11:25:40|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5366|36.6|228|39|0|Not available|false|34292
+2024-07-26 11:25:42|1|211599340|0|Under way using engine|nan|0|true|8.5804|53.5364|273.1|511|42|0|Not available|true|34334
+2024-07-26 11:25:51|1|211599340|0|Under way using engine|nan|0|true|8.5804|53.5364|276.1|511|52|0|Not available|true|114837
+2024-07-26 11:26:00|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5366|36.6|228|58|0|Not available|false|100541
+2024-07-26 11:26:02|1|211599340|0|Under way using engine|nan|0|true|8.5804|53.5364|290.1|511|2|0|Not available|true|82068
+2024-07-26 11:26:03|1|211399710|0|Under way using engine|undefined|0.5|true|8.578|53.5343|115.1|156|3|0|Not available|false|21096
+2024-07-26 11:26:10|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5366|36.6|228|9|0|Not available|false|2268
+2024-07-26 11:26:10|1|211116250|0|Under way using engine|nan|1.1|false|8.5766|53.53|18.9|511|9|1|No special maneuver|false|98692
+2024-07-26 11:26:11|3|210525000|5|Moored|undefined|0|false|8.576|53.5232|278.5|182|10|0|Not available|false|0
+2024-07-26 11:26:17|1|211225940|0|Under way using engine|undefined|8.9|false|8.562|53.5425|141.7|140|17|0|Not available|false|33425
+2024-07-26 11:26:20|18|211300110|0|false|8.5873|53.5348|360|511|19|false|458755
+2024-07-26 11:26:20|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5366|36.6|228|18|0|Not available|false|33504
+2024-07-26 11:26:22|1|211599340|0|Under way using engine|nan|0|true|8.5804|53.5364|292.2|511|23|0|Not available|true|114836
+2024-07-26 11:26:29|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5366|36.6|228|28|0|Not available|false|2245
+2024-07-26 11:26:31|1|211599340|0|Under way using engine|nan|0|true|8.5804|53.5364|291.7|511|32|0|Not available|true|82068
+2024-07-26 11:26:35|1|211399710|0|Under way using engine|undefined|0.5|true|8.5781|53.5342|114.1|162|34|0|Not available|false|66841
+2024-07-26 11:26:37|3|211220820|5|Moored|nan|0|false|8.5787|53.5282|179.6|511|36|0|Not available|false|85242
+2024-07-26 11:26:41|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5366|36.6|228|39|0|Not available|false|21096
+2024-07-26 11:26:41|1|211116250|0|Under way using engine|nan|1.4|false|8.5767|53.5301|22.1|511|39|1|No special maneuver|false|114857
+2024-07-26 11:26:44|1|211399710|0|Under way using engine|undefined|0.5|true|8.5781|53.5342|116|164|43|0|Not available|false|2280
+2024-07-26 11:26:50|3|211116250|0|Under way using engine|nan|1.5|false|8.5767|53.5302|22.4|511|49|1|No special maneuver|false|11329
+2024-07-26 11:26:53|1|211399710|0|Under way using engine|undefined|0.5|true|8.5781|53.5342|117|165|52|0|Not available|false|49292
+2024-07-26 11:27:06|1|211225940|0|Under way using engine|undefined|8.8|false|8.5641|53.5409|140.6|142|5|0|Not available|false|21100
+2024-07-26 11:27:09|5|211116250|0|DH6453|HOL DEEP|33|Dredging or underwater ops|32|0|5|5|1|03-27T11:50Z|undefined|3|27|11|50|1.5|SPUELARBEITEN|0
+2024-07-26 11:27:10|1|211233660|15|Not defined|undefined|0|false|8.5777|53.5366|36.6|228|9|0|Not available|false|82032
+2024-07-26 11:27:19|3|211386490|5|Moored|undefined|0|false|8.5819|53.5377|52|237|20|0|Not available|false|83770
+2024-07-26 11:27:20|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5367|36.6|228|18|0|Not available|false|21100
+2024-07-26 11:27:22|1|211599340|0|Under way using engine|nan|0|true|8.5805|53.5364|284.3|511|23|0|Not available|true|99139
+2024-07-26 11:27:24|1|211399710|0|Under way using engine|undefined|0.3|true|8.5782|53.5342|115|169|23|0|Not available|false|2248
+2024-07-26 11:27:25|1|211595610|0|Under way using engine|nan|6.1|true|8.5661|53.5317|202.5|511|25|0|Not available|true|66480
+2024-07-26 11:27:29|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5367|36.6|228|27|0|Not available|false|82045
+2024-07-26 11:27:30|1|211537690|0|Under way using engine|undefined|0|false|8.5779|53.5367|219.1|229|30|0|Not available|false|49254
+2024-07-26 11:27:31|1|211599340|0|Under way using engine|nan|0|true|8.5805|53.5364|281.4|511|32|0|Not available|true|66714
+2024-07-26 11:27:35|1|211399710|0|Under way using engine|undefined|0.3|true|8.5783|53.5342|107.7|170|34|0|Not available|false|49291
+2024-07-26 11:27:35|3|218709000|5|Moored|nan|0|false|8.5828|53.538|0|511|32|0|Not available|false|0
+2024-07-26 11:27:39|1|211537690|0|Under way using engine|undefined|0|false|8.578|53.5367|202.5|229|39|0|Not available|false|67003
+2024-07-26 11:27:41|1|211116250|0|Under way using engine|nan|0.9|false|8.577|53.5305|58.7|511|39|1|No special maneuver|false|99836
+2024-07-26 11:27:42|1|211599340|0|Under way using engine|nan|0|true|8.5805|53.5364|279.1|511|42|0|Not available|true|2206
+2024-07-26 11:27:45|1|211399710|0|Under way using engine|fastright|0.3|true|8.5783|53.5342|101.2|172|44|0|Not available|false|67215
+2024-07-26 11:27:46|1|211225940|0|Under way using engine|undefined|9|false|8.5659|53.5397|140.2|141|45|0|Not available|false|21100
+2024-07-26 11:27:47|5|211630370|7725453|DHVE2|LEV TORNADO|99|Other Type - no additional information|24|24|5|4|1|01-15T09:00Z|undefined|1|15|9|0|3.5|BREMERHAVEN|0
+2024-07-26 11:27:48|3|211718100|5|Moored|nan|0|true|8.5765|53.5306|360|511|48|0|Not available|true|83130
+2024-07-26 11:27:49|3|211630370|5|Moored|nan|0|false|8.5742|53.5231|248.5|179|49|0|Not available|false|84298
+2024-07-26 11:27:51|5|211718100|0|DK8884|GREENPORTS 1|79|Cargo - No additional information|56|15|5|6|0|09-16T23:00Z|undefined|9|16|23|0|2|BREMERHAVEN|0
+2024-07-26 11:27:52|1|211599340|0|Under way using engine|nan|0|false|8.5805|53.5364|278.9|511|52|0|Not available|true|82069
+2024-07-26 11:28:00|1|211116250|0|Under way using engine|nan|0.9|false|8.5771|53.5305|64.9|511|58|1|No special maneuver|false|35009
+2024-07-26 11:28:02|1|211599340|0|Under way using engine|nan|0|false|8.5805|53.5364|277.9|511|2|0|Not available|true|49301
+2024-07-26 11:28:05|1|211595610|0|Under way using engine|nan|6.9|true|8.5653|53.5305|207.1|511|5|0|Not available|true|2227
+2024-07-26 11:28:11|1|211599340|0|Under way using engine|nan|0|false|8.5805|53.5364|277.5|511|12|0|Not available|true|2248
+2024-07-26 11:28:11|3|209275000|1|At anchor|undefined|0|true|8.5524|53.5183|353.2|223|11|0|Not available|false|84938
+2024-07-26 11:28:15|18|211816240|0.1|true|8.5828|53.5339|360|511|14|true|305013
+2024-07-26 11:28:16|5|211233660|9154804|DBLF|WESERLOTSE|50|Pilot Vessel1|16|13|4|4|1|01-01T00:00Z|undefined|1|1|0|0|3||0
+2024-07-26 11:28:17|1|211225940|0|Under way using engine|undefined|9.1|false|8.5674|53.5386|138.5|141|17|0|Not available|false|2187
+2024-07-26 11:28:20|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5367|36.6|228|18|0|Not available|false|2251
+2024-07-26 11:28:24|1|211399710|0|Under way using engine|undefined|0.1|true|8.5783|53.5342|122.8|175|23|0|Not available|false|66419
+2024-07-26 11:28:29|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5366|36.6|228|27|0|Not available|false|66618
+2024-07-26 11:28:29|1|211253400|15|Not defined|nan|0|false|8.5729|53.5455|0|511|26|0|Not available|false|49250
+2024-07-26 11:28:31|1|211599340|0|Under way using engine|nan|0|true|8.5805|53.5364|277.6|511|32|0|Not available|true|49300
+2024-07-26 11:28:35|1|211399710|0|Under way using engine|undefined|0.1|true|8.5783|53.5342|142.8|175|34|0|Not available|false|34073
+2024-07-26 11:28:37|3|211225940|0|Under way using engine|nan|9.1|false|8.5684|53.538|139|137|37|0|Not available|false|3697
+2024-07-26 11:28:40|3|211411980|5|Moored|undefined|0|true|8.5823|53.5379|141.1|231|36|0|Not available|false|84858
+2024-07-26 11:28:40|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5367|36.6|228|39|0|Not available|false|67056
+2024-07-26 11:28:41|5|211411980|9313187|DBHX|ZENIT|90|Other Type - all ships of this type|18|12|2|4|1|07-18T14:00Z|undefined|7|18|14|0|2.1|SURVEY OPS WESER|0
+2024-07-26 11:28:45|1|211399710|0|Under way using engine|undefined|0|true|8.5783|53.5342|214.5|175|44|0|Not available|false|49285
+2024-07-26 11:28:50|1|211116250|0|Under way using engine|nan|0.9|false|8.5775|53.5306|68|511|49|1|No special maneuver|false|49322
+2024-07-26 11:28:50|3|211225940|0|Under way using engine|nan|9.2|false|8.569|53.5377|130|130|49|0|Not available|false|0
+2024-07-26 11:28:54|3|211225940|0|Under way using engine|nan|9.2|false|8.5693|53.5376|127.7|131|53|0|Not available|false|3856
+2024-07-26 11:28:54|1|211595610|0|Under way using engine|nan|7.1|true|8.5642|53.5291|209.3|511|55|0|Not available|true|2271
+2024-07-26 11:28:57|3|211225940|0|Under way using engine|nan|9.2|false|8.5694|53.5375|127.4|132|56|0|Not available|false|3921
+2024-07-26 11:29:00|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5367|36.6|228|58|0|Not available|false|49265
+2024-07-26 11:29:00|1|211116250|0|Under way using engine|nan|1|false|8.5776|53.5306|72.2|511|58|1|No special maneuver|false|21104
+2024-07-26 11:29:00|3|211225940|0|Under way using engine|undefined|9.3|false|8.5696|53.5374|127.2|133|59|0|Not available|false|0
+2024-07-26 11:29:02|1|211599340|0|Under way using engine|nan|0|true|8.5805|53.5364|274.1|511|2|0|Not available|true|32845
+2024-07-26 11:29:07|3|211225940|0|Under way using engine|fastright|9.3|false|8.57|53.5372|127.9|138|6|0|Not available|false|3905
+2024-07-26 11:29:10|1|211116250|0|Under way using engine|nan|1|false|8.5777|53.5306|74.5|511|9|1|No special maneuver|false|49322
+2024-07-26 11:29:11|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5367|36.6|228|9|0|Not available|false|49268
+2024-07-26 11:29:11|1|211599340|0|Under way using engine|nan|0|true|8.5805|53.5364|269.2|511|11|0|Not available|true|114837
+2024-07-26 11:29:14|1|211399710|0|Under way using engine|undefined|0.1|true|8.5783|53.5342|330.9|173|14|0|Not available|false|66080
+2024-07-26 11:29:22|1|211599340|0|Under way using engine|nan|0|true|8.5805|53.5364|266.3|511|23|0|Not available|true|66371
+2024-07-26 11:29:23|3|211225940|0|Under way using engine|undefined|9.4|false|8.5709|53.5367|133.8|135|23|0|Not available|false|4064
+2024-07-26 11:29:28|24|211237120|B|B|37|Pleasure Craft|DC5760|null|SRTDWIC|1|94842|6|8|2|2
+2024-07-26 11:29:29|1|211253400|15|Not defined|nan|0|false|8.573|53.5455|0|511|26|0|Not available|false|33875
+2024-07-26 11:29:30|1|211537690|0|Under way using engine|undefined|0|false|8.5779|53.5367|283.6|229|30|0|Not available|false|21108
+2024-07-26 11:29:34|3|211225940|0|Under way using engine|nan|9.3|false|8.5715|53.5364|129.6|132|33|0|Not available|false|3936
+2024-07-26 11:29:35|1|211399710|0|Under way using engine|undefined|0.1|true|8.5783|53.5342|349.6|172|34|0|Not available|false|21108
+2024-07-26 11:29:36|3|211220820|5|Moored|nan|0|false|8.5786|53.5282|179.6|511|34|0|Not available|false|86026
+2024-07-26 11:29:37|3|211225940|0|Under way using engine|nan|9.3|false|8.5717|53.5363|129.3|131|37|0|Not available|false|3569
+2024-07-26 11:29:40|3|211225940|0|Under way using engine|nan|9.3|false|8.5718|53.5363|127.5|129|39|0|Not available|false|0
+2024-07-26 11:29:41|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5366|36.6|228|39|0|Not available|false|49282
+2024-07-26 11:29:41|1|211599340|0|Under way using engine|nan|0|true|8.5805|53.5364|262.7|511|41|0|Not available|true|34290
+2024-07-26 11:29:41|3|211225920|5|Moored|undefined|0|true|8.5814|53.5375|235.5|233|39|0|Not available|false|0
+2024-07-26 11:29:43|3|211225940|0|Under way using engine|nan|9.3|false|8.5721|53.5362|127|127|43|0|Not available|false|4192
+2024-07-26 11:29:51|3|211885430|5|Moored|undefined|0|false|8.5836|53.5086|355.1|173|49|0|Not available|false|84746
+2024-07-26 11:29:52|1|211599340|0|Under way using engine|nan|0|true|8.5805|53.5364|261.1|511|52|0|Not available|true|49301
+2024-07-26 11:29:53|1|211399710|0|Under way using engine|undefined|0.2|true|8.5783|53.5342|351.2|171|52|0|Not available|false|2258
+2024-07-26 11:29:53|3|211225940|0|Under way using engine|nan|9.3|false|8.5727|53.536|120.3|122|53|0|Not available|false|3968
+2024-07-26 11:30:00|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5366|36.6|228|58|0|Not available|false|35005
+2024-07-26 11:30:00|3|211225940|0|Under way using engine|nan|9.5|false|8.5731|53.5358|116.6|120|59|0|Not available|false|0
+2024-07-26 11:30:02|1|211599340|0|Under way using engine|nan|0|true|8.5805|53.5364|260.7|511|2|0|Not available|true|21112
+2024-07-26 11:30:04|1|211595610|0|Under way using engine|nan|7|true|8.5619|53.5273|218.3|511|4|0|Not available|true|65692
+2024-07-26 11:30:04|1|211399710|0|Under way using engine|undefined|0.2|true|8.5783|53.5342|350.8|170|4|0|Not available|false|82053
+2024-07-26 11:30:10|3|211225940|0|Under way using engine|nan|9.7|false|8.5738|53.5357|113.6|116|9|0|Not available|false|0
+2024-07-26 11:30:11|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5366|36.6|228|9|0|Not available|false|33165
+2024-07-26 11:30:11|1|211599340|0|Under way using engine|nan|0|true|8.5805|53.5364|261.7|511|11|0|Not available|true|98724
+2024-07-26 11:30:16|3|211172030|5|Moored|undefined|0|true|8.577|53.5339|281.5|248|15|0|Not available|false|85082
+2024-07-26 11:30:16|3|211225940|0|Under way using engine|nan|9.8|false|8.5743|53.5356|110.6|112|15|0|Not available|false|4545
+2024-07-26 11:30:20|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5366|36.6|228|18|0|Not available|false|49268
+2024-07-26 11:30:22|3|211599340|0|Under way using engine|nan|0|true|8.5805|53.5364|262|511|23|0|Not available|true|23619
+2024-07-26 11:30:23|3|211225940|0|Under way using engine|nan|9.2|false|8.5748|53.5355|105.7|108|23|0|Not available|false|4096
+2024-07-26 11:30:26|5|211225940|9031208|DBMN|TIDE|55|Law Enforcement|8|23|6|1|1|00-00T24:60Z|undefined|0|0|24|60|2.3|BRV|0
+2024-07-26 11:30:29|1|211233660|15|Not defined|undefined|0|false|8.5779|53.5366|36.6|228|27|0|Not available|false|33850
+2024-07-26 11:30:31|1|211116250|0|Under way using engine|nan|1.4|false|8.5776|53.5303|219.4|511|30|1|No special maneuver|false|49323
+2024-07-26 11:30:31|1|211599340|0|Under way using engine|nan|0|true|8.5805|53.5364|263.3|511|32|0|Not available|true|21112
+2024-07-26 11:30:34|3|211225940|0|Under way using engine|nan|8.5|false|8.5755|53.5354|104.3|100|33|0|Not available|false|3760
+2024-07-26 11:30:37|3|211225940|0|Under way using engine|nan|8.4|false|8.5757|53.5354|103.6|96|37|0|Not available|false|3601
+2024-07-26 11:30:40|3|211225940|0|Under way using engine|nan|8|false|8.5758|53.5354|101|95|39|0|Not available|false|0
+2024-07-26 11:30:41|1|211233660|15|Not defined|undefined|0|false|8.5779|53.5366|36.6|228|39|0|Not available|false|34288
+2024-07-26 11:30:41|3|211599340|0|Under way using engine|nan|0|true|8.5804|53.5364|266.1|511|41|0|Not available|true|13249
+2024-07-26 11:30:41|1|211116250|0|Under way using engine|nan|1.4|false|8.5775|53.5303|212.2|511|39|1|No special maneuver|false|49323
+2024-07-26 11:30:43|3|218709000|5|Moored|nan|0|false|8.5828|53.538|0|511|39|0|Not available|false|0
+2024-07-26 11:30:43|3|211225940|0|Under way using engine|nan|7.9|false|8.5761|53.5353|99.8|86|43|0|Not available|false|3920
+2024-07-26 11:30:45|3|211718100|5|Moored|nan|0|true|8.5765|53.5306|360|511|45|0|Not available|true|85722
+2024-07-26 11:30:47|3|211630370|5|Moored|nan|0|false|8.5742|53.5231|248.5|180|47|0|Not available|false|84826
+2024-07-26 11:30:50|3|211225940|0|Under way using engine|nan|6.8|false|8.5764|53.5354|84.8|55|49|0|Not available|false|0
+2024-07-26 11:30:50|1|211116250|0|Under way using engine|nan|1.3|false|8.5775|53.5302|209.1|511|49|1|No special maneuver|false|21112
+2024-07-26 11:30:52|1|211599340|0|Under way using engine|nan|0|true|8.5804|53.5364|267.8|511|52|0|Not available|true|34704
+2024-07-26 11:30:53|1|211399710|0|Under way using engine|undefined|0.2|true|8.5783|53.5342|351.9|171|53|0|Not available|false|114822
+2024-07-26 11:30:54|3|211225940|0|Under way using engine|nan|5.6|false|8.5765|53.5354|71.1|31|53|0|Not available|false|3808
+2024-07-26 11:30:57|3|211225940|0|Under way using engine|nan|4.9|false|8.5766|53.5355|63.1|11|56|0|Not available|false|4033
+2024-07-26 11:31:00|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5366|36.6|228|58|0|Not available|false|21112
+2024-07-26 11:31:00|3|211225940|0|Under way using engine|nan|3.6|false|8.5766|53.5355|43|349|59|0|Not available|false|0
+2024-07-26 11:31:02|5|211599340|0|DC4779|NORDENHAM|60|Passenger - all ships of this type|30|30|7|7|0|01-05T00:00Z|undefined|1|5|0|0|2.5|BREMERHAVEN-NORDENAM|0
+2024-07-26 11:31:04|3|211399710|0|Under way using engine|undefined|0.2|true|8.5783|53.5343|353.2|171|4|0|Not available|false|28835
+2024-07-26 11:31:07|3|211225940|0|Under way using engine|nan|2.1|false|8.5765|53.5356|2.9|297|6|0|Not available|false|4225
+2024-07-26 11:31:10|3|211225940|0|Under way using engine|nan|1.4|false|8.5765|53.5356|333.2|279|9|0|Not available|false|0
+2024-07-26 11:31:11|1|211233660|15|Not defined|undefined|0|false|8.5779|53.5366|36.6|228|9|0|Not available|false|21116
+2024-07-26 11:31:11|1|211599340|0|Under way using engine|nan|0|true|8.5804|53.5364|269.1|511|11|0|Not available|true|82069
+2024-07-26 11:31:14|3|211225940|0|Under way using engine|nan|0.9|false|8.5764|53.5356|312.2|263|13|0|Not available|false|3968
+2024-07-26 11:31:15|1|211399710|0|Under way using engine|undefined|0.3|true|8.5783|53.5343|354.9|172|14|0|Not available|false|33312
+2024-07-26 11:31:20|3|211225940|0|Under way using engine|nan|0.4|false|8.5764|53.5356|297|247|19|0|Not available|false|0
+2024-07-26 11:31:22|1|211599340|0|Under way using engine|nan|0|true|8.5804|53.5364|269.4|511|23|0|Not available|true|33603
+2024-07-26 11:31:23|3|211225940|0|Under way using engine|nan|0.4|false|8.5765|53.5356|296.2|244|23|0|Not available|false|4048
+2024-07-26 11:31:24|1|211399710|0|Under way using engine|undefined|0.3|true|8.5783|53.5343|352.8|172|23|0|Not available|false|21116
+2024-07-26 11:31:29|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5366|36.6|228|27|0|Not available|false|21116
+2024-07-26 11:31:31|1|211116250|0|Under way using engine|nan|0.8|false|8.5774|53.5301|193.5|511|30|1|No special maneuver|false|33932
+2024-07-26 11:31:31|1|211599340|0|Under way using engine|nan|0|true|8.5804|53.5364|268.1|511|32|0|Not available|true|2230
+2024-07-26 11:31:33|3|211225940|0|Under way using engine|nan|1.2|false|8.5766|53.5356|36.3|244|32|0|Not available|false|4288
+2024-07-26 11:31:33|5|210525000|9466233|5BCL6|HILDA B|70|Cargo - all ships of this type|75|13|4|9|1|04-25T08:00Z|undefined|4|25|8|0|4|DEBRE|0
+2024-07-26 11:31:34|1|211399710|0|Under way using engine|undefined|0.3|true|8.5783|53.5343|358.7|173|34|0|Not available|false|114820
+2024-07-26 11:31:40|1|211334270|8|Under way sailing|nan|3.7|true|8.57|53.5321|12.9|511|39|0|Not available|true|82037
+2024-07-26 11:31:41|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5367|36.6|228|39|0|Not available|false|21116
+2024-07-26 11:31:50|3|211225940|0|Under way using engine|undefined|1.4|false|8.5768|53.5357|60.6|244|49|0|Not available|false|0
+2024-07-26 11:31:50|1|211116250|0|Under way using engine|nan|0.9|false|8.5774|53.53|191.4|511|49|1|No special maneuver|false|2255
+2024-07-26 11:31:53|3|211225940|0|Under way using engine|undefined|1.2|false|8.5768|53.5357|60.4|242|53|0|Not available|false|4160
+2024-07-26 11:31:57|3|211225940|0|Under way using engine|nan|1.1|false|8.5768|53.5357|59.5|242|56|0|Not available|false|3889
+2024-07-26 11:32:00|1|211233660|15|Not defined|undefined|0|false|8.5777|53.5366|36.6|228|58|0|Not available|false|2235
+2024-07-26 11:32:00|3|211225940|0|Under way using engine|nan|1|false|8.5768|53.5357|57.5|242|59|0|Not available|false|0
+2024-07-26 11:32:02|18|211232240|0|true|8.5842|53.5339|360|511|1|true|304909
+2024-07-26 11:32:03|1|211599340|0|Under way using engine|nan|0|true|8.5804|53.5364|265.7|511|3|0|Not available|true|82068
+2024-07-26 11:32:03|3|211225940|0|Under way using engine|nan|1|false|8.5769|53.5357|56.2|241|3|0|Not available|false|4256
+2024-07-26 11:32:04|1|211399710|0|Under way using engine|undefined|0.3|true|8.5783|53.5344|2.7|174|4|0|Not available|false|49281
+2024-07-26 11:32:07|3|211225940|0|Under way using engine|nan|1|false|8.5769|53.5357|56.5|240|6|0|Not available|false|4049
+2024-07-26 11:32:10|1|211116250|0|Under way using engine|nan|1.5|false|8.5773|53.5299|199.9|511|9|1|No special maneuver|false|2222
+2024-07-26 11:32:11|1|211599340|0|Under way using engine|nan|0|true|8.5804|53.5364|269.4|511|11|0|Not available|true|65956
+2024-07-26 11:32:13|3|211225940|0|Under way using engine|nan|1.2|false|8.577|53.5357|60.1|238|13|0|Not available|false|3872
+2024-07-26 11:32:16|3|211225940|0|Under way using engine|nan|1.5|false|8.577|53.5357|61.6|238|15|0|Not available|false|4657
+2024-07-26 11:32:19|24|211816240|A|A|LOTHLORIEN
+2024-07-26 11:32:20|3|211225940|0|Under way using engine|nan|1.6|false|8.577|53.5358|60.8|237|19|0|Not available|false|0
+2024-07-26 11:32:21|3|211116250|0|Under way using engine|nan|1.8|false|8.5773|53.5298|204.3|511|19|1|No special maneuver|false|30115
+2024-07-26 11:32:22|1|211599340|0|Under way using engine|nan|0.1|true|8.5804|53.5364|268.7|511|23|0|Not available|true|21120
+2024-07-26 11:32:24|1|211399710|0|Under way using engine|undefined|0.4|true|8.5783|53.5344|359.3|175|23|0|Not available|false|2236
+2024-07-26 11:32:24|3|211225940|0|Under way using engine|undefined|1.7|false|8.5771|53.5358|59.9|237|23|0|Not available|false|3792
+2024-07-26 11:32:27|3|211225940|0|Under way using engine|undefined|1.8|false|8.5771|53.5358|59.5|238|27|0|Not available|false|3489
+2024-07-26 11:32:29|1|211233660|15|Not defined|undefined|0|false|8.5777|53.5366|36.6|228|27|0|Not available|false|2262
+2024-07-26 11:32:30|3|211225940|0|Under way using engine|undefined|1.9|false|8.5772|53.5358|58.1|238|29|0|Not available|false|0
+2024-07-26 11:32:31|1|211599340|0|Under way using engine|nan|0|true|8.5804|53.5364|267.2|511|31|0|Not available|true|49300
+2024-07-26 11:32:31|1|211116250|0|Under way using engine|nan|1.7|false|8.5772|53.5297|205.2|511|30|1|No special maneuver|false|21120
+2024-07-26 11:32:33|3|211225940|0|Under way using engine|undefined|2|false|8.5772|53.5358|57.7|239|32|0|Not available|false|4080
+2024-07-26 11:32:40|3|211225940|0|Under way using engine|undefined|2.3|false|8.5773|53.5359|58.1|239|39|0|Not available|false|0
+2024-07-26 11:32:40|3|211225920|5|Moored|undefined|0|true|8.5814|53.5375|235.5|233|39|0|Not available|false|0
+2024-07-26 11:32:41|1|211233660|15|Not defined|undefined|0|false|8.5777|53.5366|36.6|228|39|0|Not available|false|2210
+2024-07-26 11:32:41|3|211116250|0|Under way using engine|nan|1.7|false|8.5772|53.5296|204.5|511|39|1|No special maneuver|false|18673
+2024-07-26 11:32:41|1|211599340|0|Under way using engine|nan|0|true|8.5804|53.5364|266.7|511|41|0|Not available|true|67071
+2024-07-26 11:32:44|3|211225940|0|Under way using engine|undefined|2.4|false|8.5774|53.5359|58.9|238|43|0|Not available|false|3904
+2024-07-26 11:32:50|1|211116250|0|Under way using engine|nan|1.7|false|8.5771|53.5295|202.9|511|49|1|No special maneuver|false|82093
+2024-07-26 11:32:52|1|211599340|0|Under way using engine|nan|0|true|8.5804|53.5364|265.8|511|52|0|Not available|true|2281
+2024-07-26 11:32:57|3|211225940|0|Under way using engine|nan|2.7|false|8.5776|53.536|59.2|235|56|0|Not available|false|3889
+2024-07-26 11:33:00|3|211225940|0|Under way using engine|nan|2.8|false|8.5777|53.536|57.3|235|59|0|Not available|false|0
+2024-07-26 11:33:03|1|211599340|0|Under way using engine|nan|0|true|8.5804|53.5364|265.1|511|3|0|Not available|true|65629
+2024-07-26 11:33:03|3|211225940|0|Under way using engine|undefined|2.9|false|8.5778|53.536|56.6|235|3|0|Not available|false|4192
+2024-07-26 11:33:09|1|211233660|15|Not defined|undefined|0|false|8.5777|53.5366|36.6|228|7|0|Not available|false|114802
+2024-07-26 11:33:10|3|211225940|0|Under way using engine|undefined|3.2|false|8.5779|53.5361|53.3|236|9|0|Not available|false|0
+2024-07-26 11:33:11|5|211116250|0|DH6453|HOL DEEP|33|Dredging or underwater ops|32|0|5|5|1|03-27T11:50Z|undefined|3|27|11|50|1.5|SPUELARBEITEN|0
+2024-07-26 11:33:11|1|211599340|0|Under way using engine|nan|0|true|8.5804|53.5364|263.7|511|11|0|Not available|true|49300
+2024-07-26 11:33:13|3|211225940|0|Under way using engine|undefined|3.4|false|8.578|53.5361|52.8|237|13|0|Not available|false|3920
+2024-07-26 11:33:17|3|211172030|5|Moored|undefined|0|true|8.577|53.5339|62.6|248|16|0|Not available|false|83962
+2024-07-26 11:33:17|3|211386490|5|Moored|undefined|0|false|8.5819|53.5377|52|237|18|0|Not available|false|86282
+2024-07-26 11:33:20|1|211233660|15|Not defined|undefined|0|false|8.5777|53.5367|36.6|228|18|0|Not available|false|2239
+2024-07-26 11:33:24|3|211225940|0|Under way using engine|undefined|3.8|false|8.5782|53.5362|55|238|23|0|Not available|false|3840
+2024-07-26 11:33:27|1|211225940|0|Under way using engine|undefined|3.8|false|8.5784|53.5363|55.3|238|27|0|Not available|false|2253
+2024-07-26 11:33:30|3|211225940|0|Under way using engine|undefined|3.9|false|8.5784|53.5363|55.9|238|29|0|Not available|false|0
+2024-07-26 11:33:31|1|211116250|0|Under way using engine|nan|1.2|false|8.577|53.5293|198.3|511|30|1|No special maneuver|false|2236
+2024-07-26 11:33:34|1|211399710|0|Under way using engine|undefined|0.2|true|8.5783|53.5345|345.6|174|34|0|Not available|false|82044
+2024-07-26 11:33:37|1|211225940|0|Under way using engine|undefined|4.1|false|8.5786|53.5364|56.2|238|37|0|Not available|false|2256
+2024-07-26 11:33:39|5|211235180|0|DBAC|HERMANN RUDOLF MEYER|51|Search and Rescue vessel|11|12|3|3|1|01-01T00:00Z|undefined|1|1|0|0|1.6||0
+2024-07-26 11:33:41|1|211116250|0|Under way using engine|nan|1.1|false|8.5769|53.5293|197.9|511|39|1|No special maneuver|false|2212
+2024-07-26 11:33:41|1|211599340|0|Under way using engine|nan|0|true|8.5804|53.5364|258.2|511|41|0|Not available|true|49300
+2024-07-26 11:33:43|3|218709000|5|Moored|nan|0|false|8.5828|53.538|0|511|39|0|Not available|false|0
+2024-07-26 11:33:43|1|211399710|0|Under way using engine|undefined|0.2|true|8.5783|53.5345|337.2|174|43|0|Not available|false|49278
+2024-07-26 11:33:44|3|211215500|5|Moored|undefined|0|true|8.579|53.5251|342|342|42|0|Not available|false|215962
+2024-07-26 11:33:44|1|211595610|0|Under way using engine|nan|6.5|true|8.553|53.5228|242.3|511|44|0|Not available|true|67187
+2024-07-26 11:33:46|1|211225940|0|Under way using engine|undefined|4.1|false|8.5788|53.5365|57|237|45|0|Not available|false|82062
+2024-07-26 11:33:48|5|211630370|7725453|DHVE2|LEV TORNADO|99|Other Type - no additional information|24|24|5|4|1|01-15T09:00Z|undefined|1|15|9|0|3.5|BREMERHAVEN|0
+2024-07-26 11:33:48|3|211630370|5|Moored|8.197796472223494|0|false|8.5742|53.5231|248.5|179|48|0|Not available|false|85802
+2024-07-26 11:33:52|1|211334270|0|Under way using engine|nan|4.9|true|8.5706|53.5346|0.9|511|51|0|Not available|true|21124
+2024-07-26 11:33:53|1|211599340|0|Under way using engine|nan|0|true|8.5804|53.5364|256.2|511|53|0|Not available|true|49300
+2024-07-26 11:33:57|1|211225940|0|Under way using engine|undefined|3.8|false|8.5791|53.5366|57.7|237|56|0|Not available|false|2281
+2024-07-26 11:33:59|1|211233660|15|Not defined|undefined|0|false|8.5777|53.5367|36.6|228|58|0|Not available|false|67758
+2024-07-26 11:34:03|1|211599340|0|Under way using engine|nan|0|true|8.5804|53.5364|256.4|511|3|0|Not available|true|49300
+2024-07-26 11:34:04|1|211399710|0|Under way using engine|undefined|0.1|true|8.5783|53.5345|289.2|171|4|0|Not available|false|21128
+2024-07-26 11:34:07|1|211225940|0|Under way using engine|undefined|3.7|false|8.5794|53.5367|56.5|235|6|0|Not available|false|33013
+2024-07-26 11:34:09|1|211233660|15|Not defined|undefined|0|false|8.5777|53.5367|36.6|228|7|0|Not available|false|98635
+2024-07-26 11:34:10|1|211116250|0|Under way using engine|nan|1.2|false|8.5768|53.5291|196.4|511|8|1|No special maneuver|false|82093
+2024-07-26 11:34:11|1|211599340|0|Under way using engine|nan|0|true|8.5804|53.5364|255.2|511|11|0|Not available|true|33188
+2024-07-26 11:34:12|3|209275000|1|At anchor|undefined|0|true|8.5524|53.5183|352.5|223|11|0|Not available|false|84938
+2024-07-26 11:34:14|1|211399710|0|Under way using engine|undefined|0.1|true|8.5783|53.5345|257.8|169|13|0|Not available|false|66051
+2024-07-26 11:34:16|1|211225940|0|Under way using engine|undefined|3.5|false|8.5796|53.5368|54.2|235|15|0|Not available|false|2253
+2024-07-26 11:34:17|5|211233660|9154804|DBLF|WESERLOTSE|50|Pilot Vessel1|16|13|4|4|1|01-01T00:00Z|undefined|1|1|0|0|3||0
+2024-07-26 11:34:21|1|211599340|0|Under way using engine|nan|0|true|8.5804|53.5364|254.3|511|21|0|Not available|true|82068
+2024-07-26 11:34:23|24|211300110|B|B|37|Pleasure Craft|DD6026|null|AMC   B|8|133152|6|0|0|3
+2024-07-26 11:34:30|1|211537690|0|Under way using engine|undefined|0|false|8.578|53.5366|253.1|230|30|0|Not available|false|2240
+2024-07-26 11:34:31|1|211599340|0|Under way using engine|nan|0|true|8.5805|53.5364|254.5|511|31|0|Not available|true|21128
+2024-07-26 11:34:34|1|211399710|0|Under way using engine|undefined|0.1|true|8.5783|53.5345|174.6|168|34|0|Not available|false|66823
+2024-07-26 11:34:37|3|211322590|5|Moored|undefined|0.1|false|8.5768|53.534|10.4|245|41|0|Not available|false|215914
+2024-07-26 11:34:38|1|211225940|0|Under way using engine|undefined|2.4|false|8.58|53.5369|52.3|236|37|0|Not available|false|99705
+2024-07-26 11:34:40|3|211540110|0|Under way using engine|undefined|11.1|false|8.5587|53.5462|155.2|156|40|0|Not available|false|2193
+2024-07-26 11:34:41|1|211599340|0|Under way using engine|nan|0|true|8.5805|53.5364|257|511|41|0|Not available|true|34303
+2024-07-26 11:34:42|5|211411980|9313187|DBHX|ZENIT|90|Other Type - all ships of this type|18|12|2|4|1|07-18T14:00Z|undefined|7|18|14|0|2.1|SURVEY OPS WESER|0
+2024-07-26 11:34:42|3|211220910|5|Moored|nan|0|true|8.5785|53.5282|360|511|41|0|Not available|true|84986
+2024-07-26 11:34:43|1|211399710|0|Under way using engine|undefined|0.2|true|8.5783|53.5345|162.7|168|43|0|Not available|false|34388
+2024-07-26 11:34:46|1|211225940|0|Under way using engine|undefined|1.1|false|8.58|53.537|48.4|237|45|0|Not available|false|67268
+2024-07-26 11:34:53|1|211599340|0|Under way using engine|nan|0|false|8.5804|53.5364|258.1|511|53|0|Not available|true|34735
+2024-07-26 11:34:53|1|211399710|0|Under way using engine|undefined|0.2|true|8.5783|53.5345|155.8|168|53|0|Not available|false|49277
+2024-07-26 11:34:57|5|211225920|0|DBLO|FRANZIUSPLATE|0|Not available|0|0|0|0|1|01-25T14:30Z|undefined|1|25|14|30|1.2|BREMERHAVEN|0
+2024-07-26 11:34:59|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5367|36.6|228|58|0|Not available|false|49268
+2024-07-26 11:35:00|1|211116250|0|Under way using engine|nan|1.5|false|8.5766|53.5288|205.3|511|58|1|No special maneuver|false|49322
+2024-07-26 11:35:07|1|211225940|0|Under way using engine|undefined|0.2|false|8.58|53.537|12.1|238|6|0|Not available|false|21132
+2024-07-26 11:35:11|1|211599340|0|Under way using engine|nan|0|true|8.5805|53.5364|261.4|511|11|0|Not available|true|21132
+2024-07-26 11:35:19|1|250006456|0|Under way using engine|undefined|8.2|true|8.5577|53.5497|151.1|150|19|0|Not available|false|33490
+2024-07-26 11:35:20|1|211233660|15|Not defined|undefined|0|false|8.5779|53.5367|36.6|228|18|0|Not available|false|49276
+2024-07-26 11:35:21|1|211116250|0|Under way using engine|nan|1.4|false|8.5764|53.5287|207.2|511|19|1|No special maneuver|false|21132
+2024-07-26 11:35:21|1|211599340|0|Under way using engine|nan|0|true|8.5805|53.5364|262.9|511|21|0|Not available|true|66317
+2024-07-26 11:35:29|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5367|36.6|228|28|0|Not available|false|49282
+2024-07-26 11:35:31|1|211599340|0|Under way using engine|nan|0|false|8.5805|53.5364|263.7|511|31|0|Not available|true|2265
+2024-07-26 11:35:34|1|211399710|0|Under way using engine|undefined|0.2|true|8.5783|53.5344|175.9|166|34|0|Not available|false|49277
+2024-07-26 11:35:38|1|211225940|0|Under way using engine|undefined|0|false|8.58|53.537|11.9|238|37|0|Not available|false|82055
+2024-07-26 11:35:40|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5367|36.6|228|38|0|Not available|false|34248
+2024-07-26 11:35:41|1|250006456|0|Under way using engine|undefined|8.4|true|8.5584|53.549|150.7|150|40|0|Not available|false|82719
+2024-07-26 11:35:50|1|211116250|0|Under way using engine|nan|1.4|false|8.5763|53.5285|207.9|511|49|1|No special maneuver|false|34651
+2024-07-26 11:35:53|1|211599340|0|Under way using engine|nan|0|false|8.5805|53.5364|265.5|511|53|0|Not available|true|21132
+2024-07-26 11:35:53|1|211399710|0|Under way using engine|undefined|0.3|true|8.5783|53.5344|153.1|168|53|0|Not available|false|34760
+2024-07-26 11:36:00|1|211116250|0|Under way using engine|nan|1.4|false|8.5762|53.5284|207.9|511|58|1|No special maneuver|false|34997
+2024-07-26 11:36:03|1|211599340|0|Under way using engine|nan|0|true|8.5805|53.5364|265.4|511|3|0|Not available|true|21136
+2024-07-26 11:36:07|1|211225940|0|Under way using engine|undefined|0|false|8.58|53.537|11.9|238|6|0|Not available|false|2274
+2024-07-26 11:36:09|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5367|36.6|228|7|0|Not available|false|65867
+2024-07-26 11:36:10|1|211537690|0|Under way using engine|undefined|0|false|8.578|53.5367|248.1|230|10|0|Not available|false|65899
+2024-07-26 11:36:11|1|211334270|0|Under way using engine|nan|5.1|true|8.5708|53.5379|359.7|511|11|0|Not available|true|49269
+2024-07-26 11:36:11|3|211599340|0|Under way using engine|nan|0|true|8.5805|53.5364|265.6|511|11|0|Not available|true|30275
+2024-07-26 11:36:16|1|211225940|0|Under way using engine|undefined|0|false|8.58|53.537|11.9|238|15|0|Not available|false|33365
+2024-07-26 11:36:16|3|211172030|5|Moored|undefined|0|true|8.577|53.5338|297|247|15|0|Not available|false|85322
+2024-07-26 11:36:18|1|211540110|0|Under way using engine|fastright|17|false|8.5638|53.5409|147.7|153|18|0|Not available|false|66207
+2024-07-26 11:36:21|1|211116250|0|Under way using engine|nan|0.9|false|8.5761|53.5283|207.2|511|19|1|No special maneuver|false|2268
+2024-07-26 11:36:21|1|211599340|0|Under way using engine|nan|0|true|8.5805|53.5364|265.6|511|21|0|Not available|true|49299
+2024-07-26 11:36:23|1|211399710|0|Under way using engine|undefined|0.3|true|8.5783|53.5344|153.2|170|23|0|Not available|false|33637
+2024-07-26 11:36:29|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5367|36.6|228|28|0|Not available|false|33862
+2024-07-26 11:36:35|1|211399710|0|Under way using engine|undefined|0.4|true|8.5784|53.5344|156.6|171|34|0|Not available|false|34055
+2024-07-26 11:36:40|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5367|36.6|228|38|0|Not available|false|21136
+2024-07-26 11:36:46|1|211225940|0|Under way using engine|undefined|0|false|8.58|53.537|11.9|238|45|0|Not available|false|34500
+2024-07-26 11:36:47|3|218709000|5|Moored|nan|0|false|8.5828|53.538|0|511|43|0|Not available|false|0
+2024-07-26 11:36:47|3|211630370|5|Moored|nan|0|false|8.5742|53.5232|248.5|179|47|0|Not available|false|83962
+2024-07-26 11:36:48|1|211540110|0|Under way using engine|nan|28.6|false|8.5669|53.5376|151.7|152|48|0|Not available|false|82038
+2024-07-26 11:36:50|1|250006456|0|Under way using engine|undefined|8.7|true|8.5605|53.5465|154|152|50|0|Not available|false|67416
+2024-07-26 11:36:53|1|211399710|0|Under way using engine|undefined|0.3|true|8.5784|53.5343|162.4|173|53|0|Not available|false|21136
+2024-07-26 11:36:54|1|211540110|0|Under way using engine|nan|28.8|false|8.5676|53.5369|147.9|144|54|0|Not available|false|34780
+2024-07-26 11:36:58|1|211225940|0|Under way using engine|undefined|0|false|8.58|53.537|11.9|238|57|0|Not available|false|21136
+2024-07-26 11:36:58|1|211540110|0|Under way using engine|nan|28.8|false|8.5682|53.5365|143.3|138|58|0|Not available|false|21136
+2024-07-26 11:37:02|1|211540110|0|Under way using engine|nan|28.8|false|8.5689|53.5362|137.4|130|2|0|Not available|false|49270
+2024-07-26 11:37:02|5|211599340|0|DC4779|NORDENHAM|60|Passenger - all ships of this type|30|30|7|7|0|01-05T00:00Z|undefined|1|5|0|0|2.5|BREMERHAVEN-NORDENAM|0
+2024-07-26 11:37:03|1|211599340|0|Under way using engine|nan|0|true|8.5805|53.5364|267.3|511|3|0|Not available|true|2200
+2024-07-26 11:37:06|1|211540110|0|Under way using engine|nan|28.9|false|8.5696|53.5358|130.6|124|6|0|Not available|false|21140
+2024-07-26 11:37:07|1|211225940|0|Under way using engine|undefined|0|false|8.58|53.537|11.9|238|7|0|Not available|false|49280
+2024-07-26 11:37:08|1|211540110|0|Under way using engine|nan|29|false|8.57|53.5357|127|120|8|0|Not available|false|21140
+2024-07-26 11:37:10|1|250006456|0|Under way using engine|undefined|8.7|true|8.5611|53.5458|154.3|152|9|0|Not available|false|21140
+2024-07-26 11:37:12|3|209275000|1|At anchor|undefined|0|true|8.5524|53.5183|322.2|223|10|0|Not available|false|84938
+2024-07-26 11:37:12|1|211540110|0|Under way using engine|nan|29.2|false|8.5709|53.5355|120.2|113|12|0|Not available|false|33213
+2024-07-26 11:37:14|3|211399710|0|Under way using engine|undefined|0.3|true|8.5784|53.5343|167.1|173|13|0|Not available|false|25011
+2024-07-26 11:37:18|1|211540110|0|Under way using engine|nan|27.5|false|8.5721|53.5353|110|104|18|0|Not available|false|49270
+2024-07-26 11:37:19|1|250006456|0|Under way using engine|undefined|8.8|true|8.5613|53.5455|153.7|151|18|0|Not available|false|2285
+2024-07-26 11:37:20|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5367|36.6|228|18|0|Not available|false|21140
+2024-07-26 11:37:21|1|211599340|0|Under way using engine|nan|0|true|8.5805|53.5364|268.2|511|21|0|Not available|true|33549
+2024-07-26 11:37:23|1|211399710|0|Under way using engine|undefined|0.2|true|8.5784|53.5343|167|174|23|0|Not available|false|21140
+2024-07-26 11:37:24|1|211540110|0|Under way using engine|nan|22.8|false|8.5731|53.5352|101.5|99|24|0|Not available|false|66427
+2024-07-26 11:37:28|1|211225940|5|Moored|undefined|0|false|8.58|53.537|11.9|238|27|0|Not available|false|10427
+2024-07-26 11:37:28|1|211540110|0|Under way using engine|nan|20.1|false|8.5736|53.5352|97.1|97|28|0|Not available|false|66578
+2024-07-26 11:37:30|1|211537690|0|Under way using engine|undefined|0|false|8.5779|53.5367|287.5|231|30|0|Not available|false|21140
+2024-07-26 11:37:30|1|211540110|0|Under way using engine|nan|18.9|false|8.5739|53.5352|95.1|96|30|0|Not available|false|21140
+2024-07-26 11:37:32|1|211599340|0|Under way using engine|nan|0|false|8.5805|53.5364|268.8|511|32|0|Not available|true|99477
+2024-07-26 11:37:34|1|211540110|0|Under way using engine|nan|15.6|false|8.5743|53.5352|91.6|93|34|0|Not available|false|21140
+2024-07-26 11:37:35|1|211399710|0|Under way using engine|undefined|0.2|true|8.5784|53.5343|165|174|34|0|Not available|false|21140
+2024-07-26 11:37:35|5|218709000|9502233|DBJC|ALTE WESER|55|Law Enforcement|3|30|2|4|1|07-11T15:00Z|undefined|7|11|15|0|1.8|PATROL|0
+2024-07-26 11:37:37|5|218709000|9502233|DBJC|ALTE WESER|55|Law Enforcement|3|30|2|4|1|07-11T15:00Z|undefined|7|11|15|0|1.8|PATROL|0
+2024-07-26 11:37:37|3|211322590|5|Moored|undefined|0.1|false|8.5768|53.534|38.2|245|40|0|Not available|false|215530
+2024-07-26 11:37:38|1|211225940|5|Moored|undefined|0|false|8.58|53.537|11.9|238|37|0|Not available|false|3259
+2024-07-26 11:37:38|1|211540110|0|Under way using engine|nan|12.7|false|8.5746|53.5352|88.1|89|38|0|Not available|false|21140
+2024-07-26 11:37:40|1|211116250|0|Under way using engine|nan|1.7|false|8.5764|53.5287|16.9|511|38|1|No special maneuver|false|2283
+2024-07-26 11:37:42|1|211599340|0|Under way using engine|nan|0|false|8.5805|53.5364|268.9|511|42|0|Not available|true|114838
+2024-07-26 11:37:43|1|211399710|0|Under way using engine|undefined|0.2|true|8.5784|53.5343|161.6|174|43|0|Not available|false|67152
+2024-07-26 11:37:44|1|211540110|0|Under way using engine|undefined|10.9|false|8.5751|53.5353|83.4|89|44|0|Not available|false|49270
+2024-07-26 11:37:46|1|211540110|0|Under way using engine|nan|10.7|false|8.5752|53.5353|83.9|86|46|0|Not available|false|21140
+2024-07-26 11:37:48|1|211540110|0|Under way using engine|nan|10.3|false|8.5754|53.5353|84.7|83|48|0|Not available|false|67322
+2024-07-26 11:37:50|1|211540110|0|Under way using engine|nan|10|false|8.5755|53.5353|84.6|81|50|0|Not available|false|2242
+2024-07-26 11:37:52|1|211540110|0|Under way using engine|nan|9.7|false|8.5756|53.5353|83.8|78|52|0|Not available|false|49270
+2024-07-26 11:37:53|1|211599340|0|Under way using engine|nan|0|false|8.5805|53.5364|268.8|511|53|0|Not available|true|67499
+2024-07-26 11:37:54|1|211540110|0|Under way using engine|nan|9.3|false|8.5758|53.5353|82.7|76|54|0|Not available|false|21140
+2024-07-26 11:37:56|5|211399710|0|DA7304|GREIF|52|Tug|12|11|2|5|3|00-00T24:60Z|undefined|0|0|24|60|0||0
+2024-07-26 11:37:56|1|211540110|0|Under way using engine|nan|9|false|8.5759|53.5354|81.3|75|56|0|Not available|false|49270
+2024-07-26 11:37:58|1|211225940|5|Moored|undefined|0|false|8.58|53.537|11.9|238|57|0|Not available|false|2505
+2024-07-26 11:38:00|1|211116250|0|Under way using engine|nan|1.9|false|8.5765|53.5289|14.6|511|58|1|No special maneuver|false|2292
+2024-07-26 11:38:04|1|211540110|0|Under way using engine|nan|8.2|false|8.5764|53.5354|74.3|71|4|0|Not available|false|82038
+2024-07-26 11:38:06|1|211540110|0|Under way using engine|undefined|8.2|false|8.5765|53.5355|72.6|72|6|0|Not available|false|2257
+2024-07-26 11:38:08|1|211540110|0|Under way using engine|undefined|8.2|false|8.5766|53.5355|71.6|71|8|0|Not available|false|2247
+2024-07-26 11:38:10|1|250006456|0|Under way using engine|undefined|8.9|true|8.563|53.5436|152.3|151|10|0|Not available|false|2264
+2024-07-26 11:38:11|1|211599340|0|Under way using engine|nan|0|false|8.5805|53.5364|267.2|511|11|0|Not available|true|21144
+2024-07-26 11:38:12|1|211540110|0|Under way using engine|nan|7.9|false|8.5768|53.5355|70.4|69|12|0|Not available|false|21144
+2024-07-26 11:38:14|1|211540110|0|Under way using engine|nan|7.8|false|8.5769|53.5356|69.4|69|14|0|Not available|false|2257
+2024-07-26 11:38:16|1|211540110|0|Under way using engine|nan|7.7|false|8.577|53.5356|68.5|68|16|0|Not available|false|21144
+2024-07-26 11:38:18|1|211540110|0|Under way using engine|nan|7.6|false|8.5772|53.5356|67.7|67|18|0|Not available|false|33439
+2024-07-26 11:38:19|18|211300110|0|false|8.5872|53.5348|360|511|18|false|458755
+2024-07-26 11:38:20|1|250006456|0|Under way using engine|undefined|8.9|true|8.5633|53.5433|151.9|151|20|0|Not available|false|99061
+2024-07-26 11:38:21|1|211599340|0|Under way using engine|nan|0|false|8.5806|53.5364|267.5|511|21|0|Not available|true|21144
+2024-07-26 11:38:26|1|211540110|0|Under way using engine|nan|7.4|false|8.5776|53.5357|64.8|62|26|0|Not available|false|2252
+2024-07-26 11:38:29|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5366|36.6|228|28|0|Not available|false|2237
+2024-07-26 11:38:30|1|211540110|0|Under way using engine|nan|7.3|false|8.5778|53.5358|62.9|56|30|0|Not available|false|2251
+2024-07-26 11:38:30|1|250006456|0|Under way using engine|undefined|8.9|true|8.5636|53.5429|151.6|152|30|0|Not available|false|2223
+2024-07-26 11:38:32|1|211599340|0|Under way using engine|nan|0|false|8.5806|53.5364|268.5|511|32|0|Not available|true|82071
+2024-07-26 11:38:34|1|211540110|0|Under way using engine|nan|7.1|false|8.5779|53.5359|60.1|42|34|0|Not available|false|2251
+2024-07-26 11:38:36|1|211540110|0|Under way using engine|nan|6.9|false|8.578|53.5359|57|35|36|0|Not available|false|2244
+2024-07-26 11:38:38|1|211540110|0|Under way using engine|nan|6.7|false|8.5781|53.536|53.6|25|38|0|Not available|false|2247
+2024-07-26 11:38:40|3|211225920|5|Moored|undefined|0|true|8.5814|53.5375|235.5|233|38|0|Not available|false|0
+2024-07-26 11:38:40|1|211540110|0|Under way using engine|nan|6.3|false|8.5781|53.536|49.2|16|40|0|Not available|false|21144
+2024-07-26 11:38:40|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5366|36.6|228|39|0|Not available|false|99811
+2024-07-26 11:38:42|1|211599340|0|Under way using engine|nan|0|false|8.5806|53.5364|270.4|511|42|0|Not available|true|99859
+2024-07-26 11:38:42|1|211540110|0|Under way using engine|nan|5.8|false|8.5782|53.536|44.4|7|42|0|Not available|false|2246
+2024-07-26 11:38:43|1|211399710|0|Under way using engine|undefined|0.1|true|8.5784|53.5343|143.8|177|43|0|Not available|false|49282
+2024-07-26 11:38:44|1|211540110|0|Under way using engine|nan|5.6|false|8.5782|53.5361|37.8|358|44|0|Not available|false|34402
+2024-07-26 11:38:46|1|211540110|0|Under way using engine|nan|5.3|false|8.5782|53.5361|30.2|348|46|0|Not available|false|2249
+2024-07-26 11:38:50|1|211540110|0|Under way using engine|nan|4.6|false|8.5782|53.5362|13.7|334|50|0|Not available|false|100165
+2024-07-26 11:38:50|1|250006456|0|Under way using engine|undefined|9|true|8.5643|53.5422|151.9|152|49|0|Not available|false|34648
+2024-07-26 11:38:52|1|211540110|0|Under way using engine|nan|4.4|false|8.5782|53.5363|4.9|326|52|0|Not available|false|34706
+2024-07-26 11:38:53|1|211599340|0|Under way using engine|nan|0|false|8.5806|53.5364|271.8|511|53|0|Not available|true|49303
+2024-07-26 11:38:54|1|211540110|0|Under way using engine|nan|4.3|false|8.5782|53.5363|356.8|319|54|0|Not available|false|2254
+2024-07-26 11:38:55|1|211399710|0|Under way using engine|undefined|0.1|true|8.5784|53.5343|149.5|178|54|0|Not available|false|100342
+2024-07-26 11:39:00|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5366|36.6|228|58|0|Not available|false|82027
+2024-07-26 11:39:01|1|250006456|0|Under way using engine|undefined|9|true|8.5646|53.5418|151.8|152|0|0|Not available|false|49952
+2024-07-26 11:39:01|1|211599340|0|Under way using engine|nan|0|false|8.5806|53.5364|272.3|511|1|0|Not available|true|65579
+2024-07-26 11:39:02|1|211540110|0|Under way using engine|nan|4.1|false|8.578|53.5364|324.9|287|2|0|Not available|false|21148
+2024-07-26 11:39:05|3|211225940|5|Moored|undefined|0|false|8.5799|53.537|11.9|238|3|0|Not available|false|85402
+2024-07-26 11:39:05|1|211399710|0|Under way using engine|undefined|0.1|true|8.5784|53.5343|161.6|178|4|0|Not available|false|32935
+2024-07-26 11:39:06|1|211540110|0|Under way using engine|nan|4.1|false|8.5779|53.5364|309.9|273|6|0|Not available|false|82037
+2024-07-26 11:39:09|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5366|36.6|228|7|0|Not available|false|21148
+2024-07-26 11:39:10|1|211116250|0|Under way using engine|nan|1.7|false|8.5769|53.5295|17.1|511|8|1|No special maneuver|false|2287
+2024-07-26 11:39:10|1|211537690|0|Under way using engine|undefined|0|false|8.5779|53.5367|237.4|231|10|0|Not available|false|21148
+2024-07-26 11:39:11|5|211116250|0|DH6453|HOL DEEP|33|Dredging or underwater ops|32|0|5|5|1|03-27T11:50Z|undefined|3|27|11|50|1.5|SPUELARBEITEN|0
+2024-07-26 11:39:12|1|211599340|0|Under way using engine|nan|0|false|8.5806|53.5364|272.3|511|11|0|Not available|true|2272
+2024-07-26 11:39:12|1|211540110|0|Under way using engine|nan|3.6|false|8.5777|53.5365|290.2|256|12|0|Not available|false|2238
+2024-07-26 11:39:14|1|211540110|0|Under way using engine|nan|3.5|false|8.5777|53.5365|284.1|252|14|0|Not available|false|114804
+2024-07-26 11:39:16|3|211172030|5|Moored|undefined|0|true|8.577|53.5339|2.4|248|14|0|Not available|false|85258
+2024-07-26 11:39:16|1|211540110|0|Under way using engine|nan|3.4|false|8.5776|53.5365|277.8|250|16|0|Not available|false|2261
+2024-07-26 11:39:18|1|211540110|0|Under way using engine|nan|3.2|false|8.5776|53.5364|271.5|250|18|0|Not available|false|21148
+2024-07-26 11:39:20|3|211386490|5|Moored|undefined|0|false|8.5819|53.5377|52|238|20|0|Not available|false|84442
+2024-07-26 11:39:20|1|211540110|0|Under way using engine|undefined|2.9|false|8.5775|53.5364|266|250|20|0|Not available|false|33515
+2024-07-26 11:39:21|1|211599340|0|Under way using engine|nan|0|false|8.5806|53.5364|271.7|511|21|0|Not available|true|2314
+2024-07-26 11:39:22|1|211540110|0|Under way using engine|undefined|2.5|false|8.5775|53.5364|264.2|250|22|0|Not available|false|2255
+2024-07-26 11:39:26|1|211540110|0|Under way using engine|nan|1.6|false|8.5775|53.5364|262.6|247|26|0|Not available|false|49268
+2024-07-26 11:39:28|1|211540110|0|Under way using engine|nan|1.1|false|8.5775|53.5364|268.2|245|28|0|Not available|false|33810
+2024-07-26 11:39:29|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5366|36.6|228|27|0|Not available|false|99385
+2024-07-26 11:39:30|1|211537690|0|Under way using engine|undefined|0|false|8.5779|53.5367|297.4|231|30|0|Not available|false|66632
+2024-07-26 11:39:30|1|211116250|0|Under way using engine|nan|1.6|false|8.5769|53.5296|18.5|511|28|1|No special maneuver|false|66640
+2024-07-26 11:39:30|1|250006456|0|Under way using engine|fastright|9|true|8.5656|53.5407|151.8|155|29|0|Not available|false|82720
+2024-07-26 11:39:32|1|211599340|0|Under way using engine|nan|0|false|8.5806|53.5364|272.4|511|32|0|Not available|true|66709
+2024-07-26 11:39:41|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5366|36.6|228|39|0|Not available|false|82043
+2024-07-26 11:39:41|5|211235180|0|DBAC|HERMANN RUDOLF MEYER|51|Search and Rescue vessel|11|12|3|3|1|01-01T00:00Z|undefined|1|1|0|0|1.6||0
+2024-07-26 11:39:41|1|250006456|0|Under way using engine|fastright|9|true|8.566|53.5403|152|159|40|0|Not available|false|21148
+2024-07-26 11:39:42|1|211599340|0|Under way using engine|nan|0|true|8.5805|53.5364|272.4|511|42|0|Not available|true|82070
+2024-07-26 11:39:47|3|218709000|5|Moored|nan|0|false|8.5828|53.538|0|511|43|0|Not available|false|0
+2024-07-26 11:39:48|3|211718100|5|Moored|nan|0|true|8.5765|53.5306|360|511|47|0|Not available|true|85242
+2024-07-26 11:39:48|5|211630370|7725453|DHVE2|LEV TORNADO|99|Other Type - no additional information|24|24|5|4|1|01-15T09:00Z|undefined|1|15|9|0|3.5|BREMERHAVEN|0
+2024-07-26 11:39:55|1|211399710|0|Under way using engine|undefined|0.4|true|8.5784|53.5342|183|180|54|0|Not available|false|82050
+2024-07-26 11:40:07|3|250006456|0|Under way using engine|fastright|8.9|true|8.5665|53.5393|163|175|6|0|Not available|false|3776
+2024-07-26 11:40:08|1|211540110|0|Under way using engine|undefined|0|false|8.5775|53.5365|243.1|235|8|0|Not available|false|49267
+2024-07-26 11:40:09|1|211233660|15|Not defined|undefined|0|false|8.5777|53.5367|36.6|228|7|0|Not available|false|2318
+2024-07-26 11:40:16|5|211233660|9154804|DBLF|WESERLOTSE|50|Pilot Vessel1|16|13|4|4|1|01-01T00:00Z|undefined|1|1|0|0|3||0
+2024-07-26 11:40:16|1|211540110|0|Under way using engine|undefined|0|false|8.5775|53.5365|235.3|234|16|0|Not available|false|114803
+2024-07-26 11:40:17|3|250006456|0|Under way using engine|fastright|8.8|true|8.5666|53.5389|169.2|180|16|0|Not available|false|3728
+2024-07-26 11:40:18|1|211540110|0|Under way using engine|undefined|0|false|8.5775|53.5365|233.4|234|18|0|Not available|false|2237
+2024-07-26 11:40:20|1|211233660|15|Not defined|undefined|0|false|8.5777|53.5366|36.6|228|18|0|Not available|false|82034
+2024-07-26 11:40:21|3|250006456|0|Under way using engine|fastright|8.7|false|8.5666|53.5387|171.8|181|20|0|Not available|false|3857
+2024-07-26 11:40:23|1|211599340|0|Under way using engine|nan|0|true|8.5804|53.5363|276.2|511|23|0|Not available|true|114838
+2024-07-26 11:40:24|3|250006456|0|Under way using engine|fastright|8.7|false|8.5666|53.5386|174|182|23|0|Not available|false|0
+2024-07-26 11:40:24|1|211399710|0|Under way using engine|nan|1|true|8.5784|53.5341|192.8|178|23|0|Not available|false|82048
+2024-07-26 11:40:32|1|211599340|0|Under way using engine|nan|0|true|8.5804|53.5363|277.1|511|32|0|Not available|true|49302
+2024-07-26 11:40:34|3|250006456|0|Under way using engine|undefined|8.7|false|8.5665|53.5382|180|183|32|0|Not available|false|0
+2024-07-26 11:40:36|5|211172030|0|DF4369|LESMONA|55|Law Enforcement|11|5|3|2|1|07-09T21:00Z|undefined|7|9|21|0|1.4|DEBRV|0
+2024-07-26 11:40:37|3|211322590|5|Moored|undefined|0|false|8.5768|53.534|303.3|245|41|0|Not available|false|215290
+2024-07-26 11:40:38|1|211540110|0|Under way using engine|undefined|0.1|false|8.5775|53.5365|255|231|38|0|Not available|false|0
+2024-07-26 11:40:39|3|211411980|5|Moored|10.583309737506504|0|true|8.5823|53.5379|321.2|231|34|0|Not available|false|85274
+2024-07-26 11:40:40|1|211540110|0|Under way using engine|undefined|0.1|false|8.5775|53.5365|259.3|231|40|0|Not available|false|0
+2024-07-26 11:40:41|1|211233660|15|Not defined|undefined|0|false|8.5777|53.5366|36.6|228|39|0|Not available|false|67043
+2024-07-26 11:40:42|1|211599340|0|Under way using engine|nan|0|true|8.5804|53.5364|277.1|511|42|0|Not available|true|67091
+2024-07-26 11:40:42|1|211540110|0|Under way using engine|undefined|0.1|false|8.5775|53.5365|256.6|231|42|0|Not available|false|0
+2024-07-26 11:40:44|3|250006456|0|Under way using engine|undefined|8.8|false|8.5665|53.5378|183.9|182|43|0|Not available|false|0
+2024-07-26 11:40:44|1|211540110|0|Under way using engine|undefined|0.1|false|8.5775|53.5365|255.4|231|44|0|Not available|false|0
+2024-07-26 11:40:46|1|211540110|0|Under way using engine|undefined|0.1|false|8.5775|53.5365|250.6|231|46|0|Not available|false|67252
+2024-07-26 11:40:50|1|211540110|0|Under way using engine|undefined|0|false|8.5775|53.5365|261.5|231|50|0|Not available|false|0
+2024-07-26 11:40:51|1|250006456|0|Under way using engine|undefined|8.8|false|8.5664|53.5375|184.6|182|50|0|Not available|false|2260
+2024-07-26 11:40:53|1|211599340|0|Under way using engine|nan|0|false|8.5803|53.5363|277.2|511|53|0|Not available|true|21152
+2024-07-26 11:40:58|5|211225920|0|DBLO|FRANZIUSPLATE|0|Not available|0|0|0|0|1|01-25T14:30Z|undefined|1|25|14|30|1.2|BREMERHAVEN|0
+2024-07-26 11:40:58|1|211540110|0|Under way using engine|undefined|0|false|8.5775|53.5365|221|231|58|0|Not available|false|0
+2024-07-26 11:41:01|1|250006456|0|Under way using engine|undefined|8.8|false|8.5664|53.5371|184.8|181|0|0|Not available|false|21156
+2024-07-26 11:41:01|1|211116250|0|Under way using engine|nan|1.1|false|8.5773|53.5303|15.5|511|59|1|No special maneuver|false|82089
+2024-07-26 11:41:01|1|211599340|0|Under way using engine|nan|0|false|8.5803|53.5363|277.3|511|1|0|Not available|true|32811
+2024-07-26 11:41:02|1|211540110|0|Under way using engine|undefined|0|false|8.5775|53.5365|223.8|230|2|0|Not available|false|0
+2024-07-26 11:41:05|1|211399710|0|Under way using engine|undefined|4|true|8.5783|53.5335|181.8|172|4|0|Not available|false|2220
+2024-07-26 11:41:11|1|250006456|0|Under way using engine|undefined|8.8|false|8.5664|53.5367|183.7|180|10|0|Not available|false|65925
+2024-07-26 11:41:11|1|211116250|0|Under way using engine|nan|0.6|false|8.5773|53.5303|18.5|511|9|1|No special maneuver|false|49321
+2024-07-26 11:41:11|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5366|36.6|228|9|0|Not available|false|49266
+2024-07-26 11:41:11|3|210525000|5|Moored|undefined|0|false|8.576|53.5231|278.5|182|10|0|Not available|false|0
+2024-07-26 11:41:16|1|211540110|0|Under way using engine|undefined|0|false|8.5775|53.5365|256.2|230|16|0|Not available|false|98899
+2024-07-26 11:41:18|1|211540110|0|Under way using engine|undefined|0|false|8.5775|53.5365|270.6|231|18|0|Not available|false|0
+2024-07-26 11:41:19|18|211300110|0.1|false|8.5873|53.5348|85.9|511|18|false|458755
+2024-07-26 11:41:20|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5366|36.6|228|18|0|Not available|false|66278
+2024-07-26 11:41:21|1|250006456|0|Under way using engine|undefined|8.8|false|8.5664|53.5363|182.5|181|20|0|Not available|false|49948
+2024-07-26 11:41:21|5|211540110|0|DBLS|BURKANA|50|Pilot Vessel1|14|5|3|3|1|07-12T06:30Z|undefined|7|12|6|30|1.9|BREMERHAVEN|0
+2024-07-26 11:41:21|1|211116250|0|Under way using engine|nan|0.2|false|8.5773|53.5303|11.3|511|20|1|No special maneuver|false|21156
+2024-07-26 11:41:22|1|211540110|0|Under way using engine|undefined|0|false|8.5775|53.5365|275.9|231|22|0|Not available|false|0
+2024-07-26 11:41:23|1|211599340|0|Under way using engine|nan|0|false|8.5803|53.5363|277.8|511|23|0|Not available|true|99149
+2024-07-26 11:41:24|1|211399710|0|Under way using engine|fastright|3.6|true|8.5783|53.5332|177.8|173|23|0|Not available|false|66435
+2024-07-26 11:41:30|1|250006456|0|Under way using engine|undefined|8.8|true|8.5664|53.5359|181.9|182|29|0|Not available|false|49952
+2024-07-26 11:41:32|1|211599340|0|Under way using engine|nan|0|false|8.5803|53.5364|277.7|511|32|0|Not available|true|33941
+2024-07-26 11:41:41|1|211116250|0|Under way using engine|nan|0.4|false|8.5773|53.5303|206.2|511|39|1|No special maneuver|false|2251
+2024-07-26 11:41:41|3|211225920|5|Moored|undefined|0|true|8.5814|53.5375|235.5|233|39|0|Not available|false|0
+2024-07-26 11:41:41|1|250006456|0|Under way using engine|undefined|8.9|true|8.5664|53.5355|182.6|183|40|0|Not available|false|115485
+2024-07-26 11:41:42|1|211599340|0|Under way using engine|nan|0|false|8.5803|53.5364|277.5|511|42|0|Not available|true|49302
+2024-07-26 11:41:49|1|211537690|0|Under way using engine|undefined|0|false|8.5779|53.5367|272.5|231|49|0|Not available|false|49254
+2024-07-26 11:42:00|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5366|36.6|228|58|0|Not available|false|35009
+2024-07-26 11:42:01|1|250006456|0|Under way using engine|undefined|8.9|true|8.5663|53.5347|183.6|183|0|0|Not available|false|2244
+2024-07-26 11:42:06|3|211225940|5|Moored|undefined|0|false|8.58|53.537|11.9|238|5|0|Not available|false|84666
+2024-07-26 11:42:09|1|211537690|0|Under way using engine|undefined|0|false|8.5779|53.5367|315.7|230|9|0|Not available|false|33095
+2024-07-26 11:42:11|1|250006456|0|Under way using engine|undefined|8.9|true|8.5662|53.5343|183.7|183|10|0|Not available|false|49952
+2024-07-26 11:42:16|1|211540110|0|Under way using engine|undefined|0|false|8.5775|53.5365|317|233|16|0|Not available|false|82038
+2024-07-26 11:42:17|3|211172030|5|Moored|undefined|0|true|8.577|53.5339|346.1|248|16|0|Not available|false|85002
+2024-07-26 11:42:20|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5367|36.6|228|18|0|Not available|false|49261
+2024-07-26 11:42:21|1|250006456|0|Under way using engine|undefined|8.9|true|8.5662|53.5339|183.5|183|19|0|Not available|false|33525
+2024-07-26 11:42:24|1|211399710|0|Under way using engine|undefined|2|true|8.5783|53.5325|183.1|174|23|0|Not available|false|49282
+2024-07-26 11:42:29|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5367|36.6|228|27|0|Not available|false|49267
+2024-07-26 11:42:32|1|211599340|0|Under way using engine|nan|0|true|8.5803|53.5364|278.8|511|32|0|Not available|true|21160
+2024-07-26 11:42:34|1|211399710|0|Under way using engine|nan|1.6|true|8.5783|53.5324|187|172|33|0|Not available|false|49282
+2024-07-26 11:42:36|1|211540110|0|Under way using engine|undefined|0|false|8.5775|53.5365|257|233|36|0|Not available|false|34102
+2024-07-26 11:42:41|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5367|36.6|228|39|0|Not available|false|34275
+2024-07-26 11:42:41|1|250006456|0|Under way using engine|undefined|8.9|true|8.5661|53.533|182.5|185|41|0|Not available|false|99834
+2024-07-26 11:42:50|3|218709000|5|Moored|nan|0|false|8.5828|53.538|0|511|46|0|Not available|false|0
+2024-07-26 11:43:01|1|250006456|0|Under way using engine|undefined|8.9|true|8.566|53.5322|184.3|187|0|0|Not available|false|82719
+2024-07-26 11:43:01|1|211116250|0|Under way using engine|nan|0.6|false|8.5771|53.5302|187.7|511|59|1|No special maneuver|false|49320
+2024-07-26 11:43:09|1|211537690|0|Under way using engine|undefined|0|false|8.578|53.5367|253.5|229|9|0|Not available|false|21164
+2024-07-26 11:43:11|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5367|36.6|228|9|0|Not available|false|21164
+2024-07-26 11:43:12|3|209275000|1|At anchor|undefined|0|true|8.5524|53.5183|40.7|223|11|0|Not available|false|84938
+2024-07-26 11:43:12|1|211599340|0|Under way using engine|nan|0|true|8.5804|53.5364|277.6|511|12|0|Not available|true|33210
+2024-07-26 11:43:15|1|211399710|0|Under way using engine|undefined|0.6|true|8.5782|53.5322|184.3|170|14|0|Not available|false|2222
+2024-07-26 11:43:20|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5367|36.6|228|18|0|Not available|false|33510
+2024-07-26 11:43:21|1|250006456|0|Under way using engine|undefined|9|true|8.5658|53.5314|186.2|187|20|0|Not available|false|21164
+2024-07-26 11:43:21|1|211116250|0|Under way using engine|nan|0.3|false|8.577|53.5301|224.2|511|19|1|No special maneuver|false|99079
+2024-07-26 11:43:34|5|218709000|9502233|DBJC|ALTE WESER|55|Law Enforcement|3|30|2|4|1|07-11T15:00Z|undefined|7|11|15|0|1.8|PATROL|0
+2024-07-26 11:43:41|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5367|36.6|228|39|0|Not available|false|21164
+2024-07-26 11:43:41|1|250006456|0|Under way using engine|fastright|9.1|true|8.5657|53.5305|184.5|192|40|0|Not available|false|82720
+2024-07-26 11:43:42|1|211599340|0|Under way using engine|nan|0|true|8.5804|53.5364|275.2|511|42|0|Not available|true|21164
+2024-07-26 11:43:49|1|211537690|0|Under way using engine|undefined|0|false|8.5779|53.5367|290.7|230|49|0|Not available|false|21164
+2024-07-26 11:43:53|1|211599340|0|Under way using engine|nan|0|true|8.5803|53.5364|274.9|511|52|0|Not available|true|100262
+2024-07-26 11:44:00|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5367|36.6|228|58|0|Not available|false|2265
+2024-07-26 11:44:07|3|250006456|0|Under way using engine|fastright|9|true|8.5654|53.5295|192.2|203|6|0|Not available|false|4048
+2024-07-26 11:44:11|3|250006456|0|Under way using engine|fastright|9|true|8.5653|53.5293|193.4|204|9|0|Not available|false|3841
+2024-07-26 11:44:11|1|211116250|0|Under way using engine|nan|0.1|false|8.577|53.5301|196.6|511|9|1|No special maneuver|false|2219
+2024-07-26 11:44:11|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5367|36.6|228|9|0|Not available|false|2207
+2024-07-26 11:44:19|18|211300110|0.1|false|8.5873|53.5348|49.5|511|18|false|458755
+2024-07-26 11:44:20|1|211233660|15|Not defined|undefined|0|false|8.5778|53.5367|36.6|228|18|0|Not available|false|21168
+2024-07-26 11:44:23|1|211599340|0|Under way using engine|nan|0|true|8.5803|53.5364|274|511|23|0|Not available|true|49301
+2024-07-26 11:44:26|3|211235180|5|Moored|nan|0.1|false|8.5781|53.5368|177.8|511|24|0|Not available|false|0
+2024-07-26 11:44:30|1|250006456|0|Under way using engine|fastright|8.9|true|8.5648|53.5286|201.7|210|29|0|Not available|false|2264
+2024-07-26 11:44:31|1|211116250|0|Under way using engine|nan|0.1|false|8.577|53.5301|196.6|511|29|1|No special maneuver|false|114857
+2024-07-26 11:44:41|3|211225920|5|Moored|undefined|0|true|8.5814|53.5375|235.5|233|39|0|Not available|false|0
+2024-07-26 11:44:41|3|211116250|0|Under way using engine|nan|0.2|false|8.577|53.5301|196.4|511|39|1|No special maneuver|false|19505
+2024-07-26 11:44:45|1|211399710|0|Under way using engine|undefined|0.1|true|8.5783|53.5322|63|174|44|0|Not available|false|67209
+2024-07-26 11:44:52|1|211116250|0|Under way using engine|nan|0.2|false|8.577|53.5301|194.6|511|50|1|No special maneuver|false|2237
+2024-07-26 11:44:56|5|250006456|9757137|EIYZ9|ARKLOW CLIPPER|70|Cargo - all ships of this type|77|10|6|9|1|07-26T07:30Z|undefined|7|26|7|30|6.5|DEBRE|0
+2024-07-26 11:45:01|1|211116250|0|Under way using engine|nan|0.2|false|8.577|53.5301|191.5|511|59|1|No special maneuver|false|21168
+2024-07-26 11:45:04|1|211399710|0|Under way using engine|undefined|0|true|8.5783|53.5322|18.5|175|3|0|Not available|false|2287
+2024-07-26 11:45:05|3|211225940|5|Moored|undefined|0|false|8.58|53.537|11.9|238|4|0|Not available|false|83946
+2024-07-26 11:45:07|3|250006456|0|Under way using engine|fastright|8.6|true|8.5635|53.5273|215.3|222|6|0|Not available|false|4080
+2024-07-26 11:45:10|1|211233660|15|Not defined|undefined|0|false|8.5777|53.5366|36.6|228|8|0|Not available|false|82029
+2024-07-26 11:45:10|1|211116250|0|Under way using engine|nan|0.2|false|8.577|53.53|188.4|511|8|1|No special maneuver|false|49322
+2024-07-26 11:45:11|3|250006456|0|Under way using engine|fastright|8.6|true|8.5633|53.5272|216.9|224|10|0|Not available|false|3713
+2024-07-26 11:45:12|1|211599340|0|Under way using engine|nan|0|true|8.5803|53.5363|268.7|511|12|0|Not available|true|2269
+2024-07-26 11:45:16|3|211172030|5|Moored|undefined|0|true|8.577|53.5339|13.7|248|15|0|Not available|false|84746
+2024-07-26 11:45:17|3|250006456|0|Under way using engine|undefined|8.5|true|8.5631|53.527|219.4|225|16|0|Not available|false|4096
+2024-07-26 11:45:19|3|211386490|5|Moored|undefined|0|false|8.5819|53.5377|52|237|19|0|Not available|false|85450
+2024-07-26 11:45:20|1|211233660|15|Not defined|undefined|0|false|8.5777|53.5366|36.6|228|18|0|Not available|false|2274
+2024-07-26 11:45:21|1|250006456|0|Under way using engine|undefined|8.5|true|8.5629|53.5269|221|226|20|0|Not available|false|66293
+2024-07-26 11:45:23|1|211599340|0|Under way using engine|nan|0|true|8.5803|53.5363|268.5|511|23|0|Not available|true|33613
+2024-07-26 11:45:34|1|211399710|0|Under way using engine|undefined|0|true|8.5783|53.5322|21.8|176|33|0|Not available|false|2240
+2024-07-26 11:45:39|5|211322590|0|DBQE|WSP 3|55|Law Enforcement|15|15|4|3|1|07-23T17:00Z|undefined|7|23|17|0|2.2|DEBRV|0
+2024-07-26 11:45:41|3|211233660|15|Not defined|undefined|0|false|8.5777|53.5366|36.6|228|39|0|Not available|false|21859
+2024-07-26 11:45:42|5|211235180|0|DBAC|HERMANN RUDOLF MEYER|51|Search and Rescue vessel|11|12|3|3|1|01-01T00:00Z|undefined|1|1|0|0|1.6||0
+2024-07-26 11:45:43|1|211599340|0|Under way using engine|nan|0|true|8.5804|53.5364|270|511|43|0|Not available|true|99894
+2024-07-26 11:45:45|1|211399710|0|Under way using engine|undefined|0.1|true|8.5783|53.5322|9.9|177|44|0|Not available|false|49280
+2024-07-26 11:45:48|5|211630370|7725453|DHVE2|LEV TORNADO|99|Other Type - no additional information|24|24|5|4|1|01-15T09:00Z|undefined|1|15|9|0|3.5|BREMERHAVEN|0
+2024-07-26 11:45:49|3|218709000|5|Moored|nan|0|false|8.5828|53.538|0|511|45|0|Not available|false|0
+2024-07-26 11:45:50|1|250006456|0|Under way using engine|undefined|8.4|false|8.5616|53.5262|226.3|225|48|0|Not available|false|115488
+2024-07-26 11:45:51|1|211116250|0|Under way using engine|nan|1.1|false|8.577|53.5299|207.9|511|49|1|No special maneuver|false|114857
+2024-07-26 11:45:51|5|211718100|0|DK8884|GREENPORTS 1|79|Cargo - No additional information|56|15|5|6|0|09-16T23:00Z|undefined|9|16|23|0|2|BREMERHAVEN|0
+2024-07-26 11:45:53|1|211399710|0|Under way using engine|undefined|0.1|true|8.5783|53.5322|15.6|177|52|0|Not available|false|82047
+2024-07-26 11:46:01|1|211116250|0|Under way using engine|nan|1.6|false|8.5769|53.5299|209.7|511|59|1|No special maneuver|false|2264
+2024-07-26 11:46:03|1|211599340|0|Under way using engine|nan|0|true|8.5804|53.5364|266.6|511|2|0|Not available|true|32843

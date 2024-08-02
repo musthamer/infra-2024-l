@@ -1,0 +1,151 @@
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes slideUp {
+    from {
+        transform: translateY(20px);
+        opacity: 0;
+    }
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+body {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    background: linear-gradient(to right, rgb(255, 192, 203), rgb(255, 160, 122), rgb(95, 158, 160)); /* Farbverlauf von Pink zu Light Salmon zu Cadet Blue */
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    animation: fadeIn 1.5s ease-in-out;
+}
+
+#forms {
+    background: rgba(0, 0, 0, 0.7); /* Halbtransparenter schwarzer Hintergrund */
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    width: 100%;
+    max-width: 400px;
+    color: #fff;
+    animation: slideUp 1s ease-out;
+}
+
+h2 {
+    margin: 0 0 20px;
+    color: #fff;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 300;
+    animation: fadeIn 2s ease-in-out;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+}
+
+label {
+    margin-bottom: 10px;
+    color: #ddd;
+    font-size: 14px;
+    animation: fadeIn 2s ease-in-out;
+}
+
+input {
+    padding: 12px;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    background: rgba(255, 255, 255, 0.1); /* Leicht transparenter weißer Hintergrund */
+    color: #fff;
+    transition: background 0.3s ease, transform 0.3s ease;
+}
+
+input:focus {
+    background: rgba(255, 255, 255, 0.2); /* Erhöhte Transparenz bei Fokus */
+    transform: scale(1.05);
+}
+
+input[type="text"]::placeholder, input[type="password"]::placeholder {
+    color: #bbb; /* Hellgraue Platzhalterfarbe */
+}
+
+button {
+    padding: 15px;
+    background-color: rgb(95, 158, 160); /* Cadet Blue */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+button:hover {
+    background-color: rgb(70, 130, 140); /* Dunkleres Cadet Blue beim Hover */
+    transform: scale(1.05);
+}
+
+button:active {
+    transform: scale(0.95);
+}
+
+#registerResult {
+    margin-top: 20px;
+    text-align: center;
+    color: #fff;
+    font-size: 14px;
+    animation: fadeIn 2s ease-in-out;
+}
+
+@media (max-width: 768px) {
+    #forms {
+        padding: 20px;
+    }
+
+    input, button {
+        font-size: 14px;
+        padding: 10px;
+    }
+
+    h2 {
+        font-size: 20px;
+    }
+
+    label {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 480px) {
+    #forms {
+        padding: 10px;
+    }
+
+    input, button {
+        font-size: 12px;
+        padding: 8px;
+    }
+
+    h2 {
+        font-size: 18px;
+    }
+
+    label {
+        font-size: 10px;
+    }
+}
+

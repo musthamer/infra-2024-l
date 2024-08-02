@@ -1,36 +1,77 @@
 <!DOCTYPE html>
-<html lang="de">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Books Management</title>
-    <script src="js/index.js" defer></script>
+    <title>Semesteraufgabe 2024</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
 </head>
 <body>
-  <a href="https://google.de">Google</a>
-    <div id="forms">
-        <div id="register">
-            <h2>Register</h2>
-            <form id="registerForm">
-                <label for="reg_username">Username:</label>
-                <input type="text" id="reg_username" name="username" required>
-                <label for="reg_password">Password:</label>
-                <input type="password" id="reg_password" name="password" required>
-                <button type="submit">Register</button>
-            </form>
-            <div id="registerResult"></div>
+    <div id="accordion">
+        <div class="group">
+            <h3>Registrierung und Login</h3>
+            <div class="content">
+                <h4>Registrierung</h4>
+                <form id="register-form">
+                    <label for="firstname">Vorname:</label>
+                    <input type="text" name="firstname" id="firstname" placeholder="Bitte Vorname eingeben" required>
+
+                    <label for="lastname">Nachname:</label>
+                    <input type="text" name="lastname" id="lastname" placeholder="Bitte Nachname eingeben" required>
+
+                    <label for="email">E-Mail:</label>
+                    <input type="email" name="email" id="email" placeholder="Bitte Email Adresse eingeben" required>
+
+                    <label for="phonenumber">Mobile Nummer:</label>
+                    <input type="text" name="phonenumber" id="phonenumber" placeholder="Bitte Mobile Nummer eingeben" required>
+
+                    <label for="password">Passwort:</label>
+                    <input type="password" name="password" id="password" placeholder="Bitte Passwort eingeben" required>
+
+                    <input type="submit" value="Registrieren">
+                </form>
+
+                <h4>Login</h4>
+                <form id="login-form">
+                    <label for="emailLogin">E-Mail:</label>
+                    <input type="email" id="emailLogin" name="emailLogin" placeholder="Email eingeben Bitte" required>
+
+                    <label for="passwordLogin">Passwort:</label>
+                    <input type="password" id="passwordLogin" name="passwordLogin" placeholder="Passwort eingeben" required>
+
+                    <input type="submit" value="Einloggen">
+                </form>
+            </div>
         </div>
-        <div id="login">
-         <h2>Login</h2> 
-         <form id="loginForm">
-           <label for="log_username"> Username: </label> 
-           <input type="text" id="log_username" name="username" required>
-           <label for="log_password"> Passwort: </label> 
-           <input type="password" id="log_password" name="password" required> 
-           <button type="submit">Login</button>
-         </form>
-         <div id="loginresult"> </div>
-        <div>
+        <div class="group disabled" id="map-group">
+            <h3>Karte</h3>
+            <div class="content">
+                <div id="map"></div>
+            </div>
+        </div>
+        <div class="group disabled" id="ships-group">
+            <h3>Schiffe</h3>
+            <div class="content">
+                <!-- <button onclick="startFetcher()">Start Fetcher</button>
+                <button onclick="stopFetcher()">Stop Fetcher</button>--> 
+
+                <table id="ships-table">
+                    <thead>
+                        <tr>
+                            <th>Name</th>
+                            <th>MMSI</th>
+                            <th>Position</th>
+                            <th>Timestamp</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                    </tbody>
+                </table>
+            </div>
+        </div>
     </div>
+    <script src="script.js"></script>
 </body>
 </html>
 

@@ -3,7 +3,6 @@
 echo "Content-type: application/json"
 echo ""
 source db_config.sh
-
 parse_query_string(){
     local query="$1"
     local key_value
@@ -26,8 +25,7 @@ VALUES ('$firstname', '$lastname', '$email', '$password_hash', '$phonenumber');
 " 2>&1)
 
 if [ $? -eq 0 ]; then
-    echo '{"status":"success", "message":"Registrierung erfolgreich"}'
+    echo "Registrierung erfolgreich"
 else
     echo '{"status":"error", "message":"Fehler bei der Registrierung", "mysql_error":"'"$insert_result"'"}'
 fi
-
