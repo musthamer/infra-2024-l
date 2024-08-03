@@ -2,7 +2,7 @@
 
 echo "Content-type: application/json"
 echo ""
-source db_config.sh
+source local_db_config.sh
 
 parse_query_string(){
     local query="$1"
