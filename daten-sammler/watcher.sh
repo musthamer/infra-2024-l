@@ -6,7 +6,7 @@ rhodesvergleich=$(cat data.csv | wc -l)
 if test "$rhodescheck" -eq "$rhodesvergleich" ; then
 sleep 30
 kill $(cat rhodes.pid) &>/dev/null
-ncat -e readwhite.sh rhodes 8082 &
+ncat -e readwrite.sh rhodes 8082 &
 echo "$!" > rhodes.pid
 
 fi
