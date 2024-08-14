@@ -1,7 +1,7 @@
 window.onload = function() {
     checkLoginStatus();
 
-    const baseURL = '/cgi-bin/project_2024';
+    const baseURL = '/docker-infra-2024-l-web/cgi-bin/project_2024';
 
     const accordion = document.getElementById('accordion');
     const groups = accordion.getElementsByClassName('group');
@@ -23,8 +23,8 @@ window.onload = function() {
         });
     }
 
-    document.getElementById('register-form').addEventListener('submit', function(event) {
-        event.preventDefault();
+    document.getElementById('register-form').addEventListener('submit', function(e) {
+       e.preventDefault();
         const formData = new FormData(this);
         const params = new URLSearchParams();
 
@@ -91,7 +91,7 @@ window.onload = function() {
 
     function checkLoginStatus() {
         let xhr = new XMLHttpRequest();
-        const baseURL = '/cgi-bin/project_2024';
+        const baseURL = '/docker-infra-2024-l-web/cgi-bin/project_2024';
         xhr.open('GET', `${baseURL}/check_session.sh`, true);
         xhr.onload = function() {
             if (xhr.status === 200) {
@@ -123,9 +123,10 @@ window.onload = function() {
         }).addTo(map);
         mapInitialized = true;
     }
-
-    /*
+/*
     function loadShipsData() {
+        const baseURL = '/docker-infra-2024-l-web/cgi-bin/project_2024';
+
         let xhr = new XMLHttpRequest();
         xhr.open('GET', `${baseURL}/get_ships.sh`, true);
         xhr.onload = function() {
@@ -155,9 +156,10 @@ window.onload = function() {
         xhr.send();
     }
     */
-
-    /*
+/*
     function startFetcher() {
+        const baseURL = '/docker-infra-2024-l-web/cgi-bin/project_2024';
+
         let xhr = new XMLHttpRequest();
         xhr.open('GET', `${baseURL}/start_fetcher.sh`, true);
         xhr.onload = function() {
@@ -171,6 +173,8 @@ window.onload = function() {
     }
 
     function stopFetcher() {
+        const baseURL = '/docker-infra-2024-l-web/cgi-bin/project_2024';
+
         let xhr = new XMLHttpRequest();
         xhr.open('GET', `${baseURL}/stop_fetcher.sh`, true);
         xhr.onload = function() {
@@ -182,6 +186,6 @@ window.onload = function() {
         };
         xhr.send();
     }
-    */
+*/ 
 };
 

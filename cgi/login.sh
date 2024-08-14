@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "Content-type: application/json"
-source local_db_config.sh
+source db_config.sh
 
 generate_session_id() {
     echo $(openssl rand -base64 32 | tr -dc 'a-zA-Z0-9')
