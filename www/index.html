@@ -8,11 +8,14 @@
     <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
 </head>
 <body>
+
     <div id="accordion">
         <div class="group">
-            <h3>Registrierung und Login</h3>
+<!-- Gruppe: Registrierung und Login -->
+         <h3>Registrierung und Login</h3>
             <div class="content">
-                <h4>Registrierung</h4>
+<!-- Registrierungsformular -->
+              <h4>Registrierung</h4>
                 <form id="register-form">
                     <label for="firstname">Vorname:</label>
                     <input type="text" name="firstname" id="firstname" placeholder="Bitte Vorname eingeben" required>
@@ -32,6 +35,8 @@
                     <input type="submit" value="Registrieren">
                 </form>
 
+<!-- Loginformular -->
+
                 <h4>Login</h4>
                 <form id="login-form">
                     <label for="emailLogin">E-Mail:</label>
@@ -44,12 +49,14 @@
                 </form>
             </div>
         </div>
+<!-- Gruppe:Karte -->        
         <div class="group disabled" id="map-group">
             <h3>Karte</h3>
             <div class="content">
                 <div id="map"></div>
             </div>
         </div>
+<!-- Gruppe: Schiffe -->
         <div class="group disabled" id="ships-group">
             <h3>Schiffe</h3>
             <div class="content">
@@ -71,6 +78,7 @@
             </div>
         </div>
     </div>
+<!-- Verlinkung zur JavaScript-Datei -->
     <script src="script.js"></script>
 </body>
 </html>
