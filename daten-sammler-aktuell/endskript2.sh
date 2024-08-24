@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # Dateipfade
-DATA_FILE="/home/kasrashrash/daten-sammler-aktuell/data.csv"
+DATA_FILE="data.csv"
 OUTPUT_FILE="aktuell.csv"
 DATUM=$(date)
 
