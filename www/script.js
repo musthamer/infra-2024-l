@@ -1,7 +1,7 @@
 // //Alles im Skript beginnt, wenn die Seite geladen ist
 window.onload = function() {      
     checkLoginStatus();         // Überprüft, ob der Benutzer eingeloggt ist   
-
+                                //wenn der User erfolgreich angelmedet ist ,kann er die andere Gruppen zugreifen
     const baseURL = '/docker-infra-2024-l-web/cgi-bin/project_2024';
 
 // Holen das Accordion-Menü und alle Gruppen
@@ -9,7 +9,7 @@ window.onload = function() {
     const accordion = document.getElementById('accordion');
     const groups = accordion.getElementsByClassName('group');
 
-// Fügt Klick-Funktion für jede Gruppe hinzu
+// Fügt Klick-Event für jede Gruppe hinzu
 
     for (let i = 0; i < groups.length; i++) {
         groups[i].getElementsByTagName('h3')[0].addEventListener('click', function() {
@@ -31,13 +31,13 @@ window.onload = function() {
     }
 
 
-//Ein Ereignis-Listener wird für das "Registrieren"-Formular hinzugefügt. Wenn das Formular abgeschickt wird
+//Ein Ereignis-Listener wird für das "Registrieren"-Formular hinzugefügt. Wenn das Formular(Button) abgeschickt wird
 
     document.getElementById('register-form').addEventListener('submit', function(e) {
        e.preventDefault(); //die Seite wird nicht neu geladen
-        const formData = new FormData(this);  //Die eingegebenen Formulardaten in formData speichern
+        const formData = new FormData(this);  //Die eingegebenen Formulardaten(HTML) in formData speichern
 
-        //Die Daten in URL-Parameter (params) umgewandelt(an server senden)
+        //Die Daten(HTML) in URL-Parameter (params-Query-string) umgewandelt(an server senden)
         const params = new URLSearchParams();  
         for (const pair of formData.entries()) {
             params.append(pair[0], pair[1]);
