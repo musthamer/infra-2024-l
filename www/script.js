@@ -1,21 +1,28 @@
-window.onload = function() {
-    checkLoginStatus();
+// //Alles im Skript beginnt, wenn die Seite geladen ist
+window.onload = function() {      
+    checkLoginStatus();         // Überprüft, ob der Benutzer eingeloggt ist   
 
     const baseURL = '/docker-infra-2024-l-web/cgi-bin/project_2024';
+
+// Holen das Accordion-Menü und alle Gruppen
 
     const accordion = document.getElementById('accordion');
     const groups = accordion.getElementsByClassName('group');
 
+// Fügt Klick-Funktion für jede Gruppe hinzu
+
     for (let i = 0; i < groups.length; i++) {
         groups[i].getElementsByTagName('h3')[0].addEventListener('click', function() {
             const content = groups[i].getElementsByClassName('content')[0];
-            if (content.style.display === 'block') {
+            if (content.style.display === 'block') {   // Schließt die Gruppe, wenn sie offen ist
                 content.style.display = 'none';
             } else {
                 for (let j = 0; j < groups.length; j++) {
-                    groups[j].getElementsByClassName('content')[0].style.display = 'none';
+                    groups[j].getElementsByClassName('content')[0].style.display = 'none';  // Schließt alle Gruppen
                 }
-                content.style.display = 'block';
+                content.style.display = 'block';        //öffnet die geklickte Gruppe
+
+                // Initialisiert die Karte, wenn die Gruppe "Karte" ist
                 if (groups[i].id === 'map-group' && !mapInitialized) {
                     initializeMap();
                 }
@@ -23,17 +30,22 @@ window.onload = function() {
         });
     }
 
-    document.getElementById('register-form').addEventListener('submit', function(e) {
-       e.preventDefault();
-        const formData = new FormData(this);
-        const params = new URLSearchParams();
 
+//Ein Ereignis-Listener wird für das "Registrieren"-Formular hinzugefügt. Wenn das Formular abgeschickt wird
+
+    document.getElementById('register-form').addEventListener('submit', function(e) {
+       e.preventDefault(); //die Seite wird nicht neu geladen
+        const formData = new FormData(this);  //Die eingegebenen Formulardaten in formData speichern
+
+        //Die Daten in URL-Parameter (params) umgewandelt(an server senden)
+        const params = new URLSearchParams();  
         for (const pair of formData.entries()) {
             params.append(pair[0], pair[1]);
         }
+//Registrierungsanfrage an den Server senden
 
         let xhr = new XMLHttpRequest();
-        xhr.open('GET', `${baseURL}/register.sh?` + params.toString(), true);
+        xhr.open('GET', `${baseURL}/register.sh?` + params.toString(), true); //die URL der Formulardaten enthält
         xhr.onload = function() {
             if (this.status === 200) {
                 try {
@@ -89,6 +101,7 @@ window.onload = function() {
         xhr.send();
     });
 
+//Funktion zum Überprüfen des Login-Status
     function checkLoginStatus() {
         let xhr = new XMLHttpRequest();
         const baseURL = '/docker-infra-2024-l-web/cgi-bin/project_2024';
