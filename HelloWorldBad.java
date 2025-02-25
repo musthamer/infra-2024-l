@@ -3,7 +3,7 @@ public class HelloWorldBad {
         System.out.println("Hello, world!");
     }
 
-    // Falsche Methodennamen-Konvention (Großbuchstabe am Anfang)
+   // Falsche Methodennamen-Konvention (Großbuchstabe am Anfang)
     public void DoSomething() {
         // ...
     }
