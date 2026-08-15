@@ -1,26 +1,36 @@
 #!/bin/bash
 
-echo "Content-type: application/json"
-echo ""
+SCRIPT_DIR=$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)
+source "$SCRIPT_DIR/db_config.sh"
+source "$SCRIPT_DIR/common.sh"
 
-source db_config.sh
+cleanup_expired_sessions
 
-# Session-ID aus den URL-Parametern lesen
-session_id=$(echo "$QUERY_STRING" | sed -n 's/^.*session_id=\([^&]*\).*$/\1/p')
+session_id=$(get_cookie_value session_id)
+if [ -z "$session_id" ]; then
+    session_id=$(get_request_param session_id || true)
+fi
 
-if [ -n "$session_id" ]; then
-    session_result=$(mysql -h "$DB_HOST" -u "$DB_USER" -p"$DB_PASS" "$DB_NAME" -sse "
-    SELECT users.email FROM sessions
+if [ -z "$session_id" ]; then
+    print_json_header "401 Unauthorized"
+    print_json "error" "Session ungültig oder abgelaufen"
+    exit 0
+fi
+
+escaped_session_id=$(sql_escape "$session_id")
+run_mysql_query_or_exit session_result "
+    SELECT users.email
+    FROM sessions
     JOIN users ON sessions.user_id = users.id
-    WHERE session_id='$session_id';
-    ")
+    WHERE sessions.session_id = '$escaped_session_id'
+      AND sessions.created_at >= (NOW() - INTERVAL $SESSION_TTL_SECONDS SECOND)
+    LIMIT 1;
+"
 
-    if [ "$session_result" ]; then
-        user_email=$session_result
-        echo '{"status":"success", "user_email":"'$user_email'"}'
-    else
-        echo '{"status":"error", "message":"Session ungültig oder abgelaufen"}'
-    fi
+if [ -n "$session_result" ]; then
+    print_json_header
+    printf '{"status":"success","user_email":"%s"}\n' "$(json_escape "$session_result")"
 else
-    echo '{"status":"error", "message":"Session-ID fehlt"}'
+    print_json_header "401 Unauthorized"
+    print_json "error" "Session ungültig oder abgelaufen"
 fi

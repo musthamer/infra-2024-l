@@ -1,33 +1,35 @@
 #!/bin/bash
 
-echo "Content-Type: text/plain"
-echo ""
+SCRIPT_DIR=$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)
+source "$SCRIPT_DIR/common.sh"
+source "$SCRIPT_DIR/db_config.sh"
 
-# Debugging: Überprüfung des Cookie-Inhalts
-echo "DEBUG: HTTP_COOKIE = $HTTP_COOKIE"
+if [ "${REQUEST_METHOD:-GET}" = "POST" ]; then
+    read_request_body >/dev/null
+fi
 
-# Session-ID aus dem Cookie extrahieren
-cookieline=$(echo "$HTTP_COOKIE" | tr ";" "\n" | grep "^session_id=")
-session_id=$(echo "$cookieline" | cut -d "=" -f 2)
-
-# Debugging: Überprüfung der extrahierten Session-ID
-echo "DEBUG: session_id extrahiert = $session_id"
+session_id=$(get_cookie_value session_id)
+if [ -z "$session_id" ]; then
+    session_id=$(get_request_param_any session_id || true)
+fi
 
 if [ -n "$session_id" ]; then
-    source db_config.sh
+    escaped_session_id=$(sql_escape "$session_id")
 
-    # Session aus der Datenbank löschen
-    mysql -h "$DB_HOST" -u "$DB_USER" -p"$DB_PASS" "$DB_NAME" -e "
-    DELETE FROM sessions WHERE session_id = '$session_id';
-    "
+    mysql -h "$DB_HOST" -u "$DB_USER" -p"$DB_PASS" "$DB_NAME" -N -B -e "
+        DELETE FROM sessions WHERE session_id = '$escaped_session_id';
+    " >/dev/null 2>&1
 
-    # Debugging: Überprüfung der Anzahl betroffener Zeilen
     if [ $? -eq 0 ]; then
-        echo "Set-Cookie: session_id=; Path=/docker-infra-2024-l-web/; Expires=Thu, 01 Jan 1970 00:00:00 GMT; HttpOnly"
-        echo "Abmeldung erfolgreich"
+        echo "Content-type: application/json"
+        echo "Set-Cookie: session_id=; Path=$APP_COOKIE_PATH; Expires=Thu, 01 Jan 1970 00:00:00 GMT; HttpOnly; SameSite=Lax"
+        echo ""
+        print_json "success" "Abmeldung erfolgreich"
     else
-        echo "Fehler beim Löschen der Session."
+        print_json_header "500 Internal Server Error"
+        print_json "error" "Fehler beim Löschen der Session"
     fi
 else
-    echo "Fehler: Keine gültige Sitzung gefunden."
+    print_json_header "401 Unauthorized"
+    print_json "error" "Keine gültige Sitzung gefunden"
 fi

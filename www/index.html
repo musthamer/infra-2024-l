@@ -2,67 +2,98 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Semesteraufgabe 2024</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
     <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
 </head>
 <body>
-   <div id="user-info" class="hidden">
+    <div class="bg-orb orb-left"></div>
+    <div class="bg-orb orb-right"></div>
+
+    <div id="user-info" class="hidden">
         <span id="username"></span>
         <button id="logout-button">Abmelden</button>
     </div>
 
-    <div id="accordion">
-        <div class="group">
-            <h3>Registrierung und Login</h3>
-            <div class="content">
-                <h4>Registrierung</h4>
-                <form id="register-form">
-                    <label for="firstname">Vorname:</label>
-                    <input type="text" name="firstname" id="firstname" placeholder="Bitte Vorname eingeben" required>
+    <main class="app-shell">
+        <header class="page-header">
+            <div class="title-block">
+                <p class="eyebrow">INFRA PROJECT</p>
+                <h1>Harbor Control Dashboard</h1>
+                <p class="subtitle">Live login, session, ship map and AIS tracks via Bash CGI + MariaDB</p>
+            </div>
+            <div class="status-pills" aria-hidden="true">
+                <span class="pill">AJAX 1s Polling</span>
+                <span class="pill">Bash CGI + MariaDB</span>
+                <span class="pill">Leaflet Route Tracking</span>
+            </div>
+        </header>
 
-                    <label for="lastname">Nachname:</label>
-                    <input type="text" name="lastname" id="lastname" placeholder="Bitte Nachname eingeben" required>
+        <div id="accordion">
+            <div class="group">
+                <h3>Registrierung und Login</h3>
+                <div class="content">
+                    <div class="auth-grid">
+                        <section class="auth-card">
+                            <h4>Registrierung</h4>
+                            <form id="register-form">
+                                <label for="firstname">Vorname:</label>
+                                <input type="text" name="firstname" id="firstname" placeholder="Bitte Vorname eingeben" required>
 
-                    <label for="email">E-Mail:</label>
-                    <input type="email" name="email" id="email" placeholder="Bitte Email Adresse eingeben" required>
+                                <label for="lastname">Nachname:</label>
+                                <input type="text" name="lastname" id="lastname" placeholder="Bitte Nachname eingeben" required>
 
-                    <label for="phonenumber">Mobile Nummer:</label>
-                    <input type="text" name="phonenumber" id="phonenumber" placeholder="Bitte Mobile Nummer eingeben" required>
+                                <label for="email">E-Mail:</label>
+                                <input type="email" name="email" id="email" placeholder="Bitte Email Adresse eingeben" required>
 
-                    <label for="password">Passwort:</label>
-                    <input type="password" name="password" id="password" placeholder="Bitte Passwort eingeben" required>
+                                <label for="phonenumber">Mobile Nummer:</label>
+                                <input type="text" name="phonenumber" id="phonenumber" placeholder="Bitte Mobile Nummer eingeben" required>
 
-                    <input type="submit" value="Registrieren">
-                </form>
+                                <label for="password">Passwort:</label>
+                                <input type="password" name="password" id="password" placeholder="Bitte Passwort eingeben" required>
 
-                <h4>Login</h4>
-                <form id="login-form">
-                    <label for="emailLogin">E-Mail:</label>
-                    <input type="email" id="emailLogin" name="emailLogin" placeholder="Email eingeben Bitte" required>
+                                <input type="submit" value="Registrieren">
+                            </form>
+                        </section>
 
-                    <label for="passwordLogin">Passwort:</label>
-                    <input type="password" id="passwordLogin" name="passwordLogin" placeholder="Passwort eingeben" required>
+                        <section class="auth-card auth-card-login">
+                            <h4>Login</h4>
+                            <form id="login-form">
+                                <label for="emailLogin">E-Mail:</label>
+                                <input type="email" id="emailLogin" name="emailLogin" placeholder="Email eingeben Bitte" required>
 
-                    <input type="submit" value="Einloggen">
-                </form>
+                                <label for="passwordLogin">Passwort:</label>
+                                <input type="password" id="passwordLogin" name="passwordLogin" placeholder="Passwort eingeben" required>
+
+                                <input type="submit" value="Einloggen">
+                            </form>
+                        </section>
+                    </div>
+                </div>
+            </div>
+            <div class="group disabled" id="map-group">
+                <h3>Karte</h3>
+                <div class="content">
+                    <p class="panel-note">Aktive Schiffe aus den letzten 5 Minuten mit Route der letzten Stunde.</p>
+                    <div id="map"></div>
+                </div>
+            </div>
+            <div class="group disabled" id="ships-group">
+                <h3>Schiffe</h3>
+                <div class="content">
+                    <p class="panel-note">Tabelle wird live per AJAX aktualisiert.</p>
+                    <div id="ships-content"></div>
+                </div>
             </div>
         </div>
-        <div class="group disabled" id="map-group">
-            <h3>Karte</h3>
-            <div class="content">
-                <div id="map"></div>
-            </div>
-        </div>
-        <div class="group disabled" id="ships-group">
-            <h3>Schiffe</h3>
-            <div class="content">
-              <div id="ships-content">
-             
-              </div>
-           </div>
-    </div>
+    </main>
+
+    <noscript>JavaScript ist fuer diese Anwendung erforderlich.</noscript>
     <script src="script.js"></script>
 </body>
 </html>

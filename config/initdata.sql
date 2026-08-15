@@ -18,7 +18,7 @@ CREATE TABLE IF NOT EXISTS sessions (
 CREATE TABLE IF NOT EXISTS ships (
     mmsi VARCHAR(255) NOT NULL PRIMARY KEY,
     timestamp TIMESTAMP NOT NULL,
-    ship_name VARCHAR(255),
+    ship_name VARCHAR(255)
 );
 
 
@@ -30,4 +30,26 @@ CREATE TABLE IF NOT EXISTS positions (
     timestamp TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     FOREIGN KEY (ship_mmsi) REFERENCES ships(mmsi) ON DELETE CASCADE
 );
+
+CREATE TABLE IF NOT EXISTS email_jobs (
+    job_id VARCHAR(64) NOT NULL PRIMARY KEY,
+    job_type VARCHAR(32) NOT NULL,
+    payload TEXT NOT NULL,
+    status ENUM('pending', 'processing', 'completed', 'failed') NOT NULL DEFAULT 'pending',
+    worker_id VARCHAR(64) NULL,
+    error_message VARCHAR(255) NULL,
+    attempts INT NOT NULL DEFAULT 0,
+    created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    started_at TIMESTAMP NULL DEFAULT NULL,
+    finished_at TIMESTAMP NULL DEFAULT NULL
+);
+
+ALTER TABLE sessions ADD INDEX IF NOT EXISTS idx_sessions_user_id (user_id);
+ALTER TABLE sessions ADD INDEX IF NOT EXISTS idx_sessions_created_at (created_at);
+
+ALTER TABLE positions ADD INDEX IF NOT EXISTS idx_positions_ship_ts (ship_mmsi, timestamp);
+ALTER TABLE positions ADD INDEX IF NOT EXISTS idx_positions_ts (timestamp);
+
+ALTER TABLE email_jobs ADD INDEX IF NOT EXISTS idx_email_jobs_status_created (status, created_at);
+ALTER TABLE email_jobs ADD INDEX IF NOT EXISTS idx_email_jobs_status_worker (status, worker_id, started_at);
 

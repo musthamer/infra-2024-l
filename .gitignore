@@ -1,3 +1,9 @@
 /node_modules/
 *.log
 *.tmp
+/runtime/
+/monitoring/*.csv
+/monitoring/*.png
+/tests/*.csv
+*.pid
+*.cookie
